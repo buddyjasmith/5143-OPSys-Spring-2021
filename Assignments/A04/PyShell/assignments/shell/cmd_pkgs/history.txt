@@ -1,0 +1,2307 @@
+ls main.py
+just checking values
+spongebob is a sadist
+ls main.py
+ls shell.py
+ls shell.py
+ls -lah shell.py
+ls -lah shell.py
+ls -l shell.py
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+mv somefile.txt bananas
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+ls
+pwd
+pwd
+pwd
+pwd
+ls
+ls -lah
+ls -lah shell.py
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+ls
+pwd
+ls -lah && pwd
+pwd
+pwd
+pwd && ls
+pwd
+pwd
+pwd
+pwd
+ls
+pwd
+pwd
+pwd
+pwd
+ls
+ls -lah
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+ls
+ls -lah
+ls -l
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+ls
+cd bananas
+ls
+pwd
+pwd
+ls
+pwd
+pwd
+ls
+cd bananas
+ls
+cd bananas
+ls
+cd bananas
+cd bananas
+cd bananas
+cd bananas
+cd
+cd bananas
+cd bananas
+ls
+cd ..
+cd ~
+cd .
+cd bananas
+cd bananas
+cd bananas
+cd bananas
+cd ..
+cd ~
+cd bananas
+cd ..
+cd ~
+cd ~
+ls
+cd ..
+ls
+cd drew
+cd bananas
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd drew
+cd ..
+cd bananas
+cd bananas
+cd bananas
+cd bananas
+cd bananas
+pwd
+cd bananas
+pwd
+cd ..
+pwd
+cd bananas
+cd bananas
+pwd
+cd bananas
+cd bananas
+pwd
+ls
+cd bananas
+pwd
+pwd
+cd bananas
+pwd
+cd bananas
+pwd
+cd ..
+pwd
+ls ..
+pwd
+cd //
+cd ..
+cd ..
+pwd
+cd ..
+pwd
+cd ..
+cd ..
+cd
+pwd
+cd bananas
+cd
+cd
+cd ..
+cd
+cd bananas
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd bananas
+pwd
+cd ~
+cd ~
+cd ~
+cd ~
+pwd
+cd ~
+pwd
+cd ..
+pwd
+cd drew
+ls
+cd bananas
+pwd
+ls -lah
+cd bananas
+cd ..
+cd ~
+pwd
+ls
+mv somefile.txt bananas
+cp some some
+cp source dest
+cp src dst
+cp src dest
+cp src dest
+cp src dest
+cp src dest
+cp src dest
+cp banana/somefile.txt testdir
+cp banana/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+ls
+cd testdir
+ls
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir
+cp bananas/somefile.txt testdir/somefile.txt
+cp bananas/somefile.txt testdir/somefile.txt
+cd testdir
+ls
+ls
+cd testdir
+ls
+cd testdir
+cd testdir
+ls
+cd ..
+ls
+cd ..
+ls
+cd drew
+ls
+cd testdir
+ls
+cd testdir
+ls
+cd
+cd
+cd
+pwd
+cd testdir
+cd testdir
+pwd
+cd testdir
+cd testdir
+cd testdir
+ls
+cd ~
+cd
+cp -R
+cp -R bananas testdir
+ls
+cd testdir
+ls
+ls
+cpy bananas testdir
+cd testdir
+ls
+cp bananas tesdir
+ls
+cd testdir
+ls
+cp -R bananas testdir
+ls
+cd testdir
+ls
+cp -R bananas tesdir
+cd testdir
+ls
+cp -R
+cp -R bananas testdir
+cp -R bananas testdir
+cp -R bananas testdir
+cp -R bananas testdir
+cp -R bananas testdir
+ls
+cd bananas
+ls
+cd ..
+cp bananas/testfile.txt testdir
+cp bananas/testfile.txt testdir
+cp bananas/testfile.txt testdir
+cd bananas
+ls
+cd ..
+cd testdir
+ls
+rm somefile.txt
+ls
+cd ..
+cp bananas/testfile.txt testdir
+cd testdir
+ls
+cp bananas/testfile.txt testdir
+cp bananas/testfile.txt testdir
+cd testdir
+ls
+cd testdir
+ls
+cp bananas/testfile.txt testdir/test.txt
+ls
+cd testdir
+ls
+cd ..
+cp bananas/testfile.txt testdir/test.txt
+cp bananas/testfile.txt testdir/test.txt
+cp bananas/testfile.txt testdir/test.txt
+cp bananas/testfile.txt testdir/test.txt
+cp bananas/somefile.txt testdir/test.txt
+cp bananas/somefile.txt testdir/test.txt
+cd ..
+ls
+cd drew
+cd testdir
+ls
+cd ~
+ls
+less shell.py
+less shell.py
+less shell.py
+less shell.py
+less shell.py
+less shell.py
+less shell.py
+less shell.py
+pip install ansiescapes
+history
+history
+ls
+cd bananas
+ls
+grep 'this' somefile.txt
+grep 'type' somefile.txt
+test
+pwd
+ls
+cd bananas
+ls
+less somefile.txt
+cd bananas
+ls
+less somefile.txt
+cd bananas
+less somefile.txt
+ls
+cd Desktop --help
+ls
+cd testdir
+ls
+chmod test.txt u+x
+ls cat=monkey
+ls catmonkey
+ls cat=monkey
+ls py=monkey
+ls
+cd bananas
+chmod u-r testfile.txt
+chmod -u-r testfile.txt
+ls
+ls << this << bob
+ls > grep 'test'
+cd > ls
+ls > grep 'first'
+grep 'test' .
+ls > grep 'first'
+cd
+cd school/os
+ls
+cd Shell
+ls
+cd assignments
+ls
+cd shell
+ls
+cd school/os
+ls
+cd Shell
+ls
+cd assignments
+ls
+cd shell
+ls
+ls < grep 'open'
+ls > grep 'open'
+cd ..
+ls
+grep 'open' shell
+cd school/os
+ls
+cd Shell
+ls
+cd assignments
+ls
+cd shell
+ls
+ls > grep 'open'
+cd school/os/Shell/
+ls
+cd assignments
+ls
+cd shell
+ls > grep 'open'
+grep -l 'test' .
+pwd
+ls
+cd /home/drew/school/os/Shell/assignments/shell
+ls
+ls > grep -l 'os.path.isdir'
+cd /home/drew/school/os/Shell/assignments/shell
+ls
+cd /home/drew/school/os/Shell/assignments/shell
+ls
+ls > grep -l 'os.path.isdir'
+cd /home/drew/school/os/Shell/assignments/shell
+ls > grep -l 'os.path.isdir'
+ls > grep 'Am i even'
+ls > grep 'open'
+cd /home/drew/school/os/Shell/assignments/shell
+ls > grep 'os.path.isdir'
+cd shell
+grep 'open' .
+cd school/os/Shell/assignments/shell
+ls
+ls > grep 'open'
+cd school/os/Shell/assignments/shell
+ls
+grep 'open' .
+cd school/os/Shell/assignments/shell
+grep 'open' .
+grep 'open' .
+cd school/os/Shell/assignments/shell
+grep 'first_chain' .
+grep 'open' .
+cd school/os/Shell/assignments/shell
+grep 'first_chain' .
+ls > grep -l 'os.path'
+cd school/os/Shell/assignments/shell
+ls > grep 'os.path' -l
+grep 'first_chain' .
+ls > grep 'fist_chain'
+cd school/os/Shell/assignments/shell
+ls > grep 'fist_chain'
+grep 'first_chain' .
+grep 'first_chain' . cmd_pkgs
+cd school/os/Shell/assignments/shell
+cd school/os/Shell/assignments/shell
+ls > grep 'carry_over'
+cd school/os/Shell/assignments/shell
+ls > grep 'carry_over'
+ls > grep 'mkdir bananas'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+cd school/os/Shell/assignments/shell
+grep 'history' cmd_pkgs
+grep 'history' .
+cd school/os/Shell/assignments/shell
+grep 'history' .
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+ls > grep 'history'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history' -l
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+cd school/os/Shell/assignments/shell
+ls > grep 'history'
+cd
+cd ..
+cd
+ls
+pwd
+cd school/os
+ls
+cd Shell
+ls
+mkdir temp
+ls
+cd school/os/Shell/assignments/shell
+cd ..
+ls
+cd shell
+ls
+cd ..
+ls
+cd ..
+ls
+cd temp
+mkdir temp1
+ls
+pwd
+ls
+cd school/os/Shell/assignments/shell
+ls
+cd ..
+ls
+cd ..
+ls
+pwd
+ls
+cd
+cd
+cd > ls
+ls
+pwd
+cd
+ls
+cd school/os/Shell/assignments/shell
+ls
+cd ..
+cd ..
+ls
+ls
+cd temp
+ls
+cd temp1
+ls
+cd ..
+cd ..
+ls
+rm -rf temp
+ls
+mkdir cp_folder
+ls
+pwd
+ls
+cd cp_folder
+touch this.py
+ls
+cp test.py ../test1.py
+cd ..
+ls
+touch main.txt
+ls -l . > something
+ls
+sort firl.txt
+ls -l . > fileName
+ls > file
+ls > file bob
+ls
+sort firl.txt
+ls > firl.txt
+sort firl.txt
+ls > file
+ls > file
+ls > file
+ls > file
+ls > file
+ls > file
+ls
+sort firl.txt
+ls > file
+sort firl.txt
+ls > file
+ls > file
+ls
+ls > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+with open(abs_path, 'w+') as f:
+wr = csv.writer(f)
+with open(abs_path, 'w+') as f:
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls > file
+ls -lah > file
+ls
+cd Downloads
+ls
+ls -lah > ../file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls >> file
+ls -la > file
+ls >> file
+ls -la > file
+git branch
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+d
+cd
+d
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+d
+cd
+cd
+cd
+cd school
+cd Downloads
+cd Downloads
+cd ..
+cd Downloads
+cd Downloads
+cd
+cd
+cd Downloads
+cd Downloads
+cd Downloads
+cd Downloads
+cd
+cd Downloads
+ls
+cd Downloads
+cd
+ls
+ls
+ls
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd
+cd Downloads
+cd
+cd Downloads
+cd
+cd Downloads
+cd Downloads
+cd Downloads
+cd Downloads
+cd Downloads
+cd Downloads
+cd Downloads
+cd ..
+ls
+pwd
+cd Downloads
+ls
+pwd
+cd Downloads
+pwd
+cd Downloads
+cp test/test.txt tester/test.txt
+pwd
+ls
+ls
+ls
+ls
+ls
+s
+ls
+ls
+ls
+ls
+ls -lah
+ls -lah
+ls -lah
+ls -lah
+ls -a
+ls
+cd Downloads
+ls
+cd Downloads
+ls
+cd test
+ls
+grep 'this' test.txt
+grep -l 'test' test.txt
+grep -l 'test' .
+cd Downloads/test
+head -10 test.txt
+cd Downloads/test
+head -10 test.txt
+cd Downloads/test
+ls
+cd Downloads
+ls
+cd Downloads
+cd Downloads
+cd test
+head -10 test.txt
+cd Downloads
+cd test
+head -10 test.txt
+cd Downloads
+cd test
+head -10 test.txt
+cd Downloads/test
+ls
+head -10 test.txt
+cd blah
+cd blah
+history
+history
+history
+history
+mkdir test
+ls
+rmdir test
+pwd
+cd Downloads
+ls
+pwd
+mkdir ../test
+ls
+cd ..
+ls
+mkdir test
+ls
+rmdir test
+ls
+mkdir blahsay
+ls
+mkdir ../blahsay
+mkdir blahsa
+ls
+mkdir ../blahsa
+pwd
+cd Downloads
+ls
+mkdir ../blah
+cd ..
+ls
+rmdir blah
+ls
+mkdir test
+mv test Downloads
+ls
+cd Downloads
+ls
+cd ..
+ls
+ls
+mv test Downloads
+mv test Downloads
+mv test Downloads
+mv test Downloads
+ls
+mv test Downloads
+mv test Downloads
+mv test Downloads
+mv test Downloads
+mv test Downloads
+mv test Downloads
+ls
+ls
+mv testmove Downloads
+ls
+mkdir tester
+mv tester Downloads
+mv tester Downloads
+ls
+cd Downloads
+ls
+cd Downloads
+cd Downloads
+ls
+mkdir tester
+mv tester Downloads
+ls
+cd Downloads
+ls
+cd ..
+ls
+pwd
+rmdir Downloads
+ls
+cd ..
+ls
+mv tester Downloads/tester
+ls
+cd Downloads
+ls
+cd ..
+ls
+mv test1.json test2.json
+ls
+ls
+cd Downloads
+ls
+cd ..
+cd Downloads
+mv ../test2.json .
+ls
+ls
+cd Downloads
+ls
+mv test2.json tester
+cd test
+cd tester
+ls
+ls
+cd Musi
+cd Msu
+ls
+cd Downloads
+ls
+cd tester
+ls
+ls
+ls
+cd ..
+ls
+ls
+cd Documents
+ls
+mkdir TestFolder
+cd ..
+pwd
+cd .
+cd Documents
+cd TestFolder
+cd ..
+pwd
+ls
+rmdir TestFolder
+ls
+ls
+mkdir test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+rm test
+cd test
+ls
+cd ..
+ls
+cd test
+ls
+ls
+cd test
+ls
+rm test.txt
+ls
+cd ..
+ls
+rm test
+rm test
+ls
+rm test
+ls
+rm test
+rm test
+ls
+mkdir test
+rm -rf test
+ls
+ls > sort
+ls > sort
+sort test.txt
+sort test.txt
+sort test.txt
+sort test.txt
+chmod 755 file
+chmod 755 file
+chmod 755 file
+chmod 744 file
+chmod 755 u+x filepath
+chmod u+x 755 filepath.txt
+chmods 755 u+x filepath -whatever
+chmod 755 -whatever u+n
+chmod 743 u+x -flag filepath.txt
+chmod 755 -whatever u+n filepath.txt
+history
+ls -lah
+ls
+ls -lah
+ls -lah
+chmod 777 test.txt
+ls -lah
+chmod u+x test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+chmod 777 test.txt
+ls
+chmod 777 test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod 777 test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+ls -lah test.txt
+chmod u+x test.txt
+chmod u+x test.txt
+ls -lah test.txt
+/usr/local/opt/python@3.9/bin/python3.9
+bit_piece = int(bit_piece,8) | udict['x']
+chmod u+w test.txt
+chmod u+wrx test.txt
+ls -lah test.txt
+chmod u+xwr test.txt
+chmod u+wrx test.txt
+chmod u+xwr test.txt
+ls -lah test.txt
+chmod u+xwr test.txt
+ls -lah test.txt
+chmod u+xwr test.txt
+ls -lah test.txt
+chmod u+xwr test.txt
+chmod u+x test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+chmod u+xwr test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod u-x test.txt
+chmod u-x test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u-xwr test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod 000 test.txt
+ls -lah test.txt
+chmod 000 test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+chmod u+rwx test.txt
+chmod u-xwr test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod 000 test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+chmod 000 test.txt
+ls -lah test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+chmod 000 test.txt
+chmod  777 test.txt
+ls -lah test.txt
+chmod 000 test.txt
+ls -lah test.txt
+chmod 0700 test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u-xwr test.txt
+ls -lah test.txt
+chmos u+xrw test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod ugo+rxw test.txt
+chmod ugo+rwx test.txt
+chmod ugo+rxw test.txt
+ls -lah test.txt
+chmod 000 test.txt
+chmod ugo+xrw test.txt
+chmod ugo+xrw test.txt
+ls
+ls -lah test.txt
+chmod ugo-rwx test.txt
+ls -lah test.txt
+chmod ugo+rwx test.txt
+ls -lah test.txt
+chmod ugo+rwx test.txt
+chmod ugo-rws test.txt
+ls -lah test.txt
+chmod 000 test.txt
+ls -lah test.txt
+chmod 700 test.txt
+cmod u-rwx test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod 700 test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod ugw-rwx test.txt
+chmod 000 test.txt
+chmod 700 test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod g+rwx test.txt
+ls -lah test.txt
+chmod o+rwx test.txt
+ls -lah test.txt
+chmod ugo-rwx test.txt
+ls -lah test.txt
+chmod o-rwx test.txt
+chmod u+rwx test.txt
+ls -lah text.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod o-rwx test.tst
+pwd
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+ls -lah test.txt
+chmod g+rwx test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod g-rwx test.txt
+ls -lah test.txt
+chmod g-rwx test.txt
+ls -lah test.txt
+chmod ugo-rwx test.txt
+ls -lah test.txt
+chmod g+rwx test.txt
+ls -lah test.txt
+chmod g-rwx test.txt
+ls -lah test.txt
+chmod o+rwx test.txt
+ls -lah test.txt
+chmod o-rwx test.txt
+ls -lah test.txt
+chmod u+rwx test.txt
+ls -lah test.txt
+chmod u-rwx test.txt
+ls -lah test.txt
+chmod ugo+rwx test.txt
+ls -lah test.txt
+chmod ugo-rwx test.txt
+ls -lah test.txt
+cmhod u+rwx test.txt
+chmod u+rwx test.txt
+chmod u-r test.txt
+ls -lah test.txt
+chmod uo+rwx test.txt
+ls -lah test.txt
+chmod uo-rwx test.txt
+ls -lah test.txt
+chmod uo-rwx test.txt
+chmod u+rwx test.txt
+ls
+ls -lah test.txt
+chmod u-rw test.txt
+ls -lah test.tst
+ls -lah test.txt
+cmh l
+chmd
+tail -5 test.txt
+tail -10 test.txt
+tail -10 --help test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail -10 test.txt
+tail --help
+tail -10 test.txt
+tail -10 --help test.txt
+tail -10 test.txt
+tail -10 test.txt
+ls -lah ~/Documents
+tail -10 ~/Documents
+tail -10 test.txt
+cd ~
+ls
+tail -10 test.txt
+python3 shell.
+tail test.txt
+tail test.txt
+tail -5 test.txt
+tail -10 test.txt
+tail -5 test.txt
+tail -10 test.txt
+tail -5 test.txt
+tail -10 test.txt
+tail -5 test.txt
+wc test.txt
+cat test.txt
+ls
+cat test.txt test1.txt > file
+ls
+cat file
+cat test.txt test1.txt > file
+cat test.txt test1.txt > file
+cat test.txt test1.txt > file
+cat test.txt test1.txt > file
+cat test.txt test1.txt > file
+ls
+cat file
+cat test.txt test1.txt > file
+cat file
+cat test.txt >> file
+cat file
+cat test.txt >> file
+cat file
+cat test.txt >> file
+cat file
+cat test.tst > file
+cat test.txt > file
+cat file
+cat test.txt >> file
+cat file
+rm file
+ls
+cat test.txt > file
+cat file
+history
+cat file
+cat test.txt < test
+cat test.txt < test
+ls -lah > sort -C
+ls -lah > sort -C
+ls -lah | sort -C
+ls -lah > sort -C
+ls > sort -C
+ls -lah > sort -C
+ls -lah test.txt
+ls -lah test.txt
+cd Documents
+ls -lah .
+ls -lah Documents
+ls -lah .
+ls -lah Documents
+ls -lah .
+ls -lah .
+ls -lah .
+ls -la test.txt
+ls -la .
+ls -a .
+ls -lah .
+ls -a .
+ls -lah .
+ls -a .
+ls -a .
+ls -h .
+ls -a .
+ls -h .
+ls2 -lah test.txt
+ls2 -lah test.txt
+ls2 -lah test.txt
+ls2 -lah test.txt
+ls2 -lah test.txt
+ls2 -lah test.txt
+cd
+ls2
+ls2 -lah test.txt
+ls2
+ls2
+ls2 -l
+ls
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+cd Documents
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls2
+ls
+ls2
+ls2
+ls -l
+ls -lah
+ls2 -lah Documents
+ls2 -l Documents
+ls2 -a Documents
+ls2 -a Documents
+ls -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls2 -a Documents
+ls -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls2 -l Documents
+ls -la Documents
+ls -l Documents
+ls2 -l Documents
+ls2 -la Documents
+ls2 -lah Documents
+ls -l
+ls2 -l
+ls2 -l Documents
+ls2 -la Documents
+ls2 -lah Documents
+ls2 -la Documents
+ls2 -l
+cd Doc
+cd Documents
+ls
+ls -l
+cd Documents
+ls -l
+ls2 -l
+ls2 -la
+cd Documents
+ls2 -la
+ls2 -l
+ls2 -a
+ls2 -la
+cd Documents
+cd Documents
+ls -lh
+ls2 -lh
+ls2 -la
+ls2 -lah
+cd Documents
+ls
+ls -l
+cd Documents
+ls -l
+ls -la
+cd Documents
+ls -la
+ls -lah
+ls -lah > sort -C
+ls
+ls -l > sort -C
+ls -lah > sort -C
+ls -l > sort -C
+ls -lah > sort -C
+ls -lah | sort
+ls | sort -C
+cc
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls > who
+ls | sort -C
+ls > who
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C
+ls | sort -C > sortedls
+ls
+cat test.txt
+cat test.txt > sortedls
+cat sortedls
+ls | sort -C > sortedls
+cat sortedls
+ls | sort -C > sortedls
+ls
+ls | sort -C > sortedls
+ls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C
+ls | sort -C > sortedls
+ls | sort -C
+ls
+ls | sort -C
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C > sortedls
+ls | sort -C
+ls > sort
+ls && ls
+ls
+ls && ls
+ls
+ls && ls
+ls && ls
+ls spank || ls
+cd Documents
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank
+ls spank || ls
+ls spank
+ls spank
+ls spank
+ls spank
+ls -l Documents
+ls Documents
+ls non
+ls spank
+ls
+ls spank
+ls spank
+ls spand || ls
+ls
+ls spand || ls
+ls spank
+ls spand
+ls spank
+ls spand
+ls spank
+ls spand
+ls spank
+ls spank || ls
+ls spank || ls
+ls spank
+ls spank || ls
+ls
+ls spank
+ls spank || ls
+ls spank || ls
+ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank || ls
+ls spank && cd
+ls spank > dead
+ls spank && cd
+ls spank > dead
+ls
+ls | sort -C
+ls | sort -C
+ls spank && ls
+ls spank
+ls | ls
+la -l Documents
+ls -l Documents
+ls | ls
+ls | ls
+ls > who
+ls spank && that
+ls spank
+ls spank
+ls Documents
+ls Fuck
+ls Fuck
+ls whatever
+ls whatever
+ls whatever
+ls whatever
+ls god damnit
+history
+cd
+ls
+cd
+ls
+ls -l
+ls -lah
+ls -la
+ls
+cd Documents
+ls
+grep 'this' this.txt
+ls
+grep 'this' this.txt
+cd Documents
+grep 'this' this.txt
+grep 'this' this.txt
+grep 'this' this.txt > grepout
+ls > grepout
+grep 'this' this.txt > grepout
+cd Documents
+grep 'this' this.txt > grepout
+cd Documents
+ls
+grep 'this' this.txt > grepout
+cd Documents
+ls
+grep 'this' this.txt > grepout
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+ls
+mv test2.txt bananas
+ls
+mv test.txt bananas
+ls
+cd cp bananas/test.txt somefile/otherfile.txt
+ls
+who test1.txt
+ls
+who
+ls
+ls bananas
+cp bananas/test.txt somedir/test.txt
+ls
+ls
+cp bananas/test.txt somedir/test.txt
+ls
+cp bananas/test.txt somedir/test.txt
+ls
+cp bananas/test.txt Documents/other/test.txt
+cd Documents
+ls
+cp bananas/test.txt somefile/test.txt
+cp bananas/test.txt Documents/other/test.txt
+cp bananas/test.txt somefile/test.txt
+cp bananas/test.txt Documents/other/test.txt
+cp bananas/test.txt somefile/test.txt
+cp bananas/test.txt Documents/other/test.txt
+cp bananas/test.txt somefile/test.txt
+cp bananas/test.txt Documents/other/test.txt
+ls
+ls other
+cp bananas/test.txt Documents/other/test.txt
+cp bananas/test.txt somefile/test.txt
+ls
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+touch this.txt
+touch this.txt
+touch touch.txt
+ls
+rm touch.txt
+ls -lah
+mkdir bananas
+cd bananas
+ls
+cd ..
+cd ~
+ls
+touch somefile.txt
+mv somefile.txt bananas
+cp bananas/somefile.txt somefile/otherfile.txt
+cd somefile
+ls
+cat somefile
+ls
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+cat somefile
+less somefile
+head -10 somefile
+ls
+cd somefile
+ls
+cat otherfile.txt
+head -10 somefile.txt
+ls
+cd somefile
+ls
+head -10 otherfile.txt
+ls
+head -10
+ls
+head -10 somefil
+head -10 somefile
+head -10 somefile
+ls
+cd somefile
+ls
+head -10 otherfile.txt
+cd ..
+head -10 somefile
+history
+head -10 somefile
+grep 'bacon' otherfile.txt | wc -l
+ls
+grep 'bacon' otherfile.txt | wc -l
+grep 'bacon' otherfile.txt | wc -l
+ls
+cd somefile
+ls
+chmod 777 otherfile.txt
+ls
+cd somefile
+ls
+chmod otherfile.txt 777
+cd somefile
+chmod otherfile.txt 777
+cd somefile
+ls
+cmod u+rwx otherfile.txt
+cd somefile
+cmod u+rwx otherfile.txt
+chmod2 777 otherfile.txt
+this
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+ls
+ls -l
+ls -lah
+cd somefile
+chmod u+rwx otherfile.txt
+cd somefile
+chmod u+rwx otherfile.txt
+cd somefile
+chmod u+rwx otherfile.txt
+cd somefile
+chmod u+rwx otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+cd somefile
+chmod 777 otherfile.txt
+ls -lah
+cd somefile
+chmod 777 otherfile.txt
+ls -l
+cd somefile
+ls -l
+chmod 000 otherfile.txt
+ls -l
+cd somefile
+chmod 000 otherfile.txt
+cd somefile
+ls
+chmod u+x otherfile.txt
+chmod u-rwx otherfile.txt
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls
+ls -l otherfile.txt
+ls -l
+ls -lah
+cd ..
+ls -lah
+cd somefile
+ls
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls
+chmod ugo-rwx otherfile.txt
+ls -l otherfile.txt
+chmod 000 otherfile.txt
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+cd somefile
+ls -l otherfile.txt
+ls -lah otherfile.txt
+ls
+cd somefile
+ls
+rm somefile
+rm -rf somefile
+ls
+cd ..
+cp somefile/otherfile.txt newdir/test.txt
+ls
+cp somefile/otherfile.txt newdir/test.txt
+cd | wc -l
+ls | wc
+ls | wc -C
+ls | wc -C
+ls | wc -C
+ls | wc -Cl
+ls | wc -Cl
+ls | wc -Cl
+ls | wc -Cl
+ls | wc -C
+ls | wc -Cl
+wc -lmw somefile/otherfile.txtt
+ls
+cd somefile
+ls
+cd ..
+ls
+wc -l somefile/otherfile.txt
+wc -l somefile/otherfile.txt
+wc somefile/otherfile.txt
+chmod 700 somefile/otherfile.txt
+wc somefile/otherfile.txt
+chmod 700 somefile/otherfile.txt
+wc -C this sucks
+wc somefile/otherfile.txt
+wc -lcm somefile/otherfile.txt
+wc -lmw somefile/otherfile.txt
+ls -lah somefile/otherfile.txt
+wc -lmw somefile/otherfile.txt
+ls -lah somefile/otherfile.txt
+ls || cd
+pwd
+ls
+ls || cd
+ls || cd
+ls && cd
+ls || cd
+ls && cd
+ls && cd
+ls -lah
+ls
+rm -rf bananas
+ls
+rm -rf somefile
+ls
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+mv somefile.txt bananas
+ls
+cd bananas
+ls
+cd ..
+cp bacon.txt bananas
+ls
+ls
+ls
+cd bananas
+ls
+mv bacon.txt ../
+ls
+cd ..
+ls
+cp bananas.txt bananas
+ls
+cd bananas
+ls
+cd sht
+ls
+cd shit
+cd shit
+ls
+cd bananas
+ls
+cd ..
+cp bananas/bacon.txt somefile/otherfile.txt
+ls
+ls
+cd bananas
+ls
+cp bacon.txt ../bacon1.txt
+cd ..
+ls
+head bacon.txt -10
+head -10 bacon1.txt
+tail bacon1.txt -10
+grep -l 'bacon1.txt'
+grep 'bacon1.txt' -l
+grep 'bacon' -l bacon.txt
+grep 'bacon' -l bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+ls
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+ls
+grep 'bacon' bacon1.txt
+ls
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+pwd
+ls
+pwd
+grep 'bacon' bacon1.txt
+ls
+pwd
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+greap 'bacon' .
+ls
+ls -lah
+ls
+rm -rf bananas
+ls
+mkdir bananas
+cd ..
+pwd
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+mv bacon1.txt bananas
+ls
+cd bananas
+ls
+mv bacon1.txt ..
+ls
+cd ..
+pwd
+ls
+mv somefile.txt somefile/otherfile.txt
+ls
+cat bananas
+cat bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+ls
+cat bananas
+cat -d bananas
+cat bananas
+cat -d bananas
+cat bananas/bacon1.txt
+cat -d bananas/bacon1.txt
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cd -d bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cat -d bananas
+cat bananas
+cat --help
+cat --help
+cat --help
+cat --help
+cat -d
+cat --help
+cat --help
+cd --help
+chmod --help
+chmod --help
+help
+ls -lah
+cd bananas
+ls
+mv bacon1.txt ..
+mv test.txt ..
+ls
+cd ..
+rm bananas
+ls
+cd bananas
+ls
+cd ..
+rm -rf bananas
+mkdir bananas
+ls
+cd bananas
+cd ..
+cd ~
+pwd
+mv somefile.txt bananas
+l;s
+ls
+mv test.txt bananas
+cp bananas somefile/otherfile.txt
+ls
+grep -l 'bacon' bacon1.txt
+grep 'bacon' bacon1.txt
+wc -w bacon1.txt
+wc -m bacon1.txt
+wc -w bacon1.txt
+wc -m bacon1.txt
+wc bacon1.txt
+history
+wc -w bacon1.txt
+chmod 777 bacon1.txt
+ls -lah bacon1.txt
+sort bacon1.txt
+sort baccon1.txt
+sort bacon1.txt
+ls
+grep 'bacon' bacon1.txt | wc -C
+cat spongebob
+grep 'bacon' bacon1.txt
+grep -l 'bacon' bacon1.txt
+ls
+ls -lah
+ls -lah
+ls
+cd bananas
+ls
+mv test.txt ..
+ls
+cd ..
+ls -la
+ls -lah
+mkdir bananas
+ls
+cd bananas
+ls
+cd ..
+rm bananas
+cd bananas
+ls -a bananas
+ls
+cd ..
+ls -a bananas
+rm bananas
+rm bananas
+rm bananas
+ls -lah banana
+ls
+ls -lah bananas
+ls bananas
+ls -lah bananas
+ls bananas
+ls -lah bananas
+ls -lah bananas
+ls -lah bananas
+ls -l bananas
+ls -lah
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls -l
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls -l bananas
+ls
+ls -lah test.txt
+ls -l bananas
+ls -l bananas
+ls -lah bananas
+ls
+rm bananas
+rm bananas
+ls -lah bananas
+rm bananas
+ls
+mkdir testdelete
+cd testdelete
+touch delete.txt
+cd ..
+ls
+rm testdelete
+ls
+ls
+mkdir testdelete
+ls
+cd testdelete
+touch this
+ls
+cd ..
+ls
+cd testdelete
+ls
+cd ..
+ls
+rm testdelete
+ls
+mkdir testdelete
+cd testdelete
+ls
+touch this.txt
+touch test.gif
+cd ..
+ls
+rm testdelete
+ls
+mkdir testdelete
+ls
+cd testdelete
+ls
+touch gif.txt
+touch this.gif
+cd ..
+ls bananas
+ls -lah bananas
+ls
+ls testdelete
+ls -lah testdelete
+ls -l testdelete
+rm testdelete
+ls
+mkdir test
+cd test
+touch this.tst
+touch gir
+cd ..
+rm test
+ls
+rm test
+rm -f test
+ls
+ls -lah
+ls
+mkdir bananas
+cd bananas
+ls
+cd ..
+cd ~
+pwd
+mv test.txt bananas
+ls
+ls bananas
+cp bananas/test.txt somefile/somefilet.txt
+cat bananas/test.txt > tester
+ls
+cat tester
+ls

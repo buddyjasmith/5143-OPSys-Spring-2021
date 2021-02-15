@@ -1,0 +1,1481 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "importPath": "cmd_pkgs.arg_parser",
+        "description": "cmd_pkgs.arg_parser",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "stat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stat",
+        "description": "stat",
+        "detail": "stat",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "prettytable",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyTable",
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "isExtraImport": true,
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyTable",
+        "importPath": "prettytable",
+        "description": "prettytable",
+        "isExtraImport": true,
+        "detail": "prettytable",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "getpass",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "getpass",
+        "description": "getpass",
+        "detail": "getpass",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "rmtree",
+        "importPath": "shutil",
+        "description": "shutil",
+        "isExtraImport": true,
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "islice",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "cycle",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "basename",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "errno",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "errno",
+        "description": "errno",
+        "detail": "errno",
+        "documentation": {}
+    },
+    {
+        "label": "concurrent.futures",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "sys,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys.",
+        "description": "sys.",
+        "detail": "sys.",
+        "documentation": {}
+    },
+    {
+        "label": "readchar",
+        "importPath": "readchar",
+        "description": "readchar",
+        "isExtraImport": true,
+        "detail": "readchar",
+        "documentation": {}
+    },
+    {
+        "label": "readkey",
+        "importPath": "readchar",
+        "description": "readchar",
+        "isExtraImport": true,
+        "detail": "readchar",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "importPath": "cmd_pkgs.ls",
+        "description": "cmd_pkgs.ls",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "print_banner",
+        "importPath": "cmd_pkgs.banner",
+        "description": "cmd_pkgs.banner",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.banner",
+        "documentation": {}
+    },
+    {
+        "label": "print_banner",
+        "importPath": "cmd_pkgs.banner",
+        "description": "cmd_pkgs.banner",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.banner",
+        "documentation": {}
+    },
+    {
+        "label": "cd",
+        "importPath": "cmd_pkgs.cd",
+        "description": "cmd_pkgs.cd",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.cd",
+        "documentation": {}
+    },
+    {
+        "label": "ChainHelper",
+        "importPath": "cmd_pkgs.chain_helper",
+        "description": "cmd_pkgs.chain_helper",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.chain_helper",
+        "documentation": {}
+    },
+    {
+        "label": "touch",
+        "importPath": "cmd_pkgs.touch",
+        "description": "cmd_pkgs.touch",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.touch",
+        "documentation": {}
+    },
+    {
+        "label": "rm",
+        "importPath": "cmd_pkgs.rm",
+        "description": "cmd_pkgs.rm",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.rm",
+        "documentation": {}
+    },
+    {
+        "label": "mv",
+        "importPath": "cmd_pkgs.mv",
+        "description": "cmd_pkgs.mv",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.mv",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "importPath": "cmd_pkgs.head",
+        "description": "cmd_pkgs.head",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.head",
+        "documentation": {}
+    },
+    {
+        "label": "chmod2",
+        "importPath": "cmd_pkgs.chmod2",
+        "description": "cmd_pkgs.chmod2",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.chmod2",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir",
+        "importPath": "cmd_pkgs.mkdir",
+        "description": "cmd_pkgs.mkdir",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.mkdir",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "importPath": "cmd_pkgs.history",
+        "description": "cmd_pkgs.history",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "get_history",
+        "importPath": "cmd_pkgs.history",
+        "description": "cmd_pkgs.history",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "set_history",
+        "importPath": "cmd_pkgs.history",
+        "description": "cmd_pkgs.history",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "importPath": "cmd_pkgs.pwd",
+        "description": "cmd_pkgs.pwd",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.pwd",
+        "documentation": {}
+    },
+    {
+        "label": "rmdir",
+        "importPath": "cmd_pkgs.rmdir",
+        "description": "cmd_pkgs.rmdir",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.rmdir",
+        "documentation": {}
+    },
+    {
+        "label": "grep",
+        "importPath": "cmd_pkgs.grep",
+        "description": "cmd_pkgs.grep",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.grep",
+        "documentation": {}
+    },
+    {
+        "label": "cp",
+        "importPath": "cmd_pkgs.cp",
+        "description": "cmd_pkgs.cp",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.cp",
+        "documentation": {}
+    },
+    {
+        "label": "sort",
+        "importPath": "cmd_pkgs.sort",
+        "description": "cmd_pkgs.sort",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.sort",
+        "documentation": {}
+    },
+    {
+        "label": "file_redirect",
+        "importPath": "cmd_pkgs.file_redirect",
+        "description": "cmd_pkgs.file_redirect",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.file_redirect",
+        "documentation": {}
+    },
+    {
+        "label": "file_append",
+        "importPath": "cmd_pkgs.file_redirect",
+        "description": "cmd_pkgs.file_redirect",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.file_redirect",
+        "documentation": {}
+    },
+    {
+        "label": "tail",
+        "importPath": "cmd_pkgs.tail",
+        "description": "cmd_pkgs.tail",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.tail",
+        "documentation": {}
+    },
+    {
+        "label": "wc",
+        "importPath": "cmd_pkgs.wc",
+        "description": "cmd_pkgs.wc",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.wc",
+        "documentation": {}
+    },
+    {
+        "label": "cat",
+        "importPath": "cmd_pkgs.cat",
+        "description": "cmd_pkgs.cat",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.cat",
+        "documentation": {}
+    },
+    {
+        "label": "who",
+        "importPath": "cmd_pkgs.who",
+        "description": "cmd_pkgs.who",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.who",
+        "documentation": {}
+    },
+    {
+        "label": "help",
+        "importPath": "cmd_pkgs.help",
+        "description": "cmd_pkgs.help",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.help",
+        "documentation": {}
+    },
+    {
+        "label": "ArgParse",
+        "kind": 6,
+        "importPath": "assignments.shell.cmd_pkgs.arg_parser",
+        "description": "assignments.shell.cmd_pkgs.arg_parser",
+        "peekOfCode": "class ArgParse:\n    '''\n    : Class         : Argparse\n    : Contructor    : Parameterized\n    : Parameters    : *args passed from the user, aka shell commands\n    : Methods       : parse_args()\n    :               : get_flags(commands_dict)\n    :               : get_paths()\n    :               : _valid_or_not()\n    : Data          : args[], flags[], file_paths[]",
+        "detail": "assignments.shell.cmd_pkgs.arg_parser",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def ls( args , cwd):\n    '''\n    :Function: ls\n    :Parameters: args: commands passed from shell.py\n    :          : cwd:\n    :Usage: ls [-flags] [paths]\n    :Returns: ReturnStatus object\n    :Description: ls is the call function for the ls method called from shell.py.  If \n    :           : no flags are called, simples_ls1.  If only a path is given, simple_ls1\n    :           : is still called and the results are returned to the caller for output.",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "simple_ls1",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def simple_ls1(flags, paths, rs):\n    '''\n    :Function: simple_ls1\n    :Parameters: flags: user defined flags passed to the method\n    :          : paths: path to be listed\n    :          : rs: ReturnStatus object to be returned to user \n    :Usage: This method is called \n    :Returns: RS object\n    :Description: this function does a directory listing for the paths provided.\n    :           : attributes will not be returned via this method",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "convert_unit",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def convert_unit(size_in_bytes):\n    '''\n    :Function: convert_unit\n    :Parameters: size_in_bytes\n    :Usage: not commandline callable\n    :Returns: integer \n    :Description: converts bytes to kb\n    :Problems: nada\n    :To-Dos: none\n    '''",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "complex_ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def complex_ls(paths, flags, rs):\n    '''\n    :Function: complex_ls\n    :Parameters: paths: all paths passed by the user\n    :          : flags: flags passed by user\n    :          : rs: ReturnStatus object, to collect data and return to shell\n    :Usage: not commandline callable\n    :Returns: none, changes rs data \n    :Description: iterates through the directories passed by user and calls\n    :           : __exe_ls to collect file attributes.  Results are passed back",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "path_leaf",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def path_leaf(path):\n    # collects the filename from a path\n    return os.path.basename(path)\ndef get_file_attributes():\n    with os.scandir() as dir_entries:\n        for entry in dir_entries:\n            info = entry.stat()",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_attributes",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "def get_file_attributes():\n    with os.scandir() as dir_entries:\n        for entry in dir_entries:\n            info = entry.stat()",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "arg_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "arg_dict = {\n    'l': False,\n    'a': False,\n    'h': False,\n}\ntext_color = {\n    'file': '\\033[92m',\n    'dir': '\\033[94m',\n    'default:': '\\033;[37m',\n}",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "text_color",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.backupls",
+        "description": "assignments.shell.cmd_pkgs.backupls",
+        "peekOfCode": "text_color = {\n    'file': '\\033[92m',\n    'dir': '\\033[94m',\n    'default:': '\\033;[37m',\n}\nsize_dict ={\n    'BYTES': 1,\n    'KB' : 2,\n    'MB' : 3,\n    'GB' : 4,",
+        "detail": "assignments.shell.cmd_pkgs.backupls",
+        "documentation": {}
+    },
+    {
+        "label": "print_banner",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.banner",
+        "description": "assignments.shell.cmd_pkgs.banner",
+        "peekOfCode": "def print_banner():\n    '''\n    :Function: banner\n    :Parameters: none\n    :Returns: none\n    :Description: Prints the PyShell banner when the program begin\n    :Problems: None at the moment, removed ip address output, in case of not \n    :          being connected to net\n    :To-Dos: None\n    '''",
+        "detail": "assignments.shell.cmd_pkgs.banner",
+        "documentation": {}
+    },
+    {
+        "label": "cat",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.cat",
+        "description": "assignments.shell.cmd_pkgs.cat",
+        "peekOfCode": "def cat(args, cwd):\n    '''\n        :Function:      cat\n        :Usage:         cat [OPTION] [FILE]...\n        :Author:        Buddy Smith & Leila Kalantari\n        :Parameters:    args: parameters from command line\n        :               cwd: current working directory\n        :Description:   display a file and concatenate file1 and file2 to file0\n        :Todo:          Test more\n        :Returns:       Returns the ReturnStatus object consisting  of status, return values, and the cwd",
+        "detail": "assignments.shell.cmd_pkgs.cat",
+        "documentation": {}
+    },
+    {
+        "label": "cat_flags",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.cat",
+        "description": "assignments.shell.cmd_pkgs.cat",
+        "peekOfCode": "cat_flags = {\n    'd': False\n}\ndef cat(args, cwd):\n    '''\n        :Function:      cat\n        :Usage:         cat [OPTION] [FILE]...\n        :Author:        Buddy Smith & Leila Kalantari\n        :Parameters:    args: parameters from command line\n        :               cwd: current working directory",
+        "detail": "assignments.shell.cmd_pkgs.cat",
+        "documentation": {}
+    },
+    {
+        "label": "cd",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.cd",
+        "description": "assignments.shell.cmd_pkgs.cd",
+        "peekOfCode": "def cd(args, cwd):\n    '''\n    :Function:      cd\n    :Usage:         cd [destination]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   the function changes the current directory of the OS to the passed value.\n    :               If no value is given, the path is changed to the users home directory\n    :Todo:          Test more",
+        "detail": "assignments.shell.cmd_pkgs.cd",
+        "documentation": {}
+    },
+    {
+        "label": "ChainHelper",
+        "kind": 6,
+        "importPath": "assignments.shell.cmd_pkgs.chain_helper",
+        "description": "assignments.shell.cmd_pkgs.chain_helper",
+        "peekOfCode": "class ChainHelper():\n    '''\n    :Class: ChainHelper\n    :Constructor: parametrized\n    :Arguments: cmd_in: Arguments passed form shell.py\n    :Methods: ChainHelper(self,cmd_in)\n            : __split_cmd(self)\n            : __trim_chain_cms(self)\n            : __count_chains(self)\n            : get_chain_cmds(self)",
+        "detail": "assignments.shell.cmd_pkgs.chain_helper",
+        "documentation": {}
+    },
+    {
+        "label": "chmod2",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.chmod2",
+        "description": "assignments.shell.cmd_pkgs.chmod2",
+        "peekOfCode": "def chmod2(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    help_flags = [x for x in args if x.startswith('--help')]\n    if help_flags:\n        rs.set_return_status(1)\n        rs.set_return_values(Fore.YELLOW + str(__doc__) + Style.RESET_ALL)\n        return rs\n    octal_values = None\n    paths = None",
+        "detail": "assignments.shell.cmd_pkgs.chmod2",
+        "documentation": {}
+    },
+    {
+        "label": "simple_ch_mod",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.chmod2",
+        "description": "assignments.shell.cmd_pkgs.chmod2",
+        "peekOfCode": "def simple_ch_mod(octal_values, path,cwd, rs):\n    abs_path = os.path.abspath(os.path.join(cwd,path))\n    previous = stat.S_IMODE(os.lstat(abs_path).st_mode)\n    os.chmod(abs_path, octal_values )\n    current = stat.S_IMODE(os.lstat(abs_path).st_mode)\n    rs.set_return_status(1)\n    rs.set_return_values(abs_path)\n         # file permissions were changed.",
+        "detail": "assignments.shell.cmd_pkgs.chmod2",
+        "documentation": {}
+    },
+    {
+        "label": "cp",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.cp",
+        "description": "assignments.shell.cmd_pkgs.cp",
+        "peekOfCode": "def cp(args,cwd):\n    '''\n    :Function:      cp\n    :Usage:         cp [src] [destination]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   the function takes a file path and copies the contents of file path into a destination path. \n    :               A new 'non-existent' file name must be included in the destination\n    :Todo:          Implement the -R flag to copy full directories",
+        "detail": "assignments.shell.cmd_pkgs.cp",
+        "documentation": {}
+    },
+    {
+        "label": "file_redirect",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.file_redirect",
+        "description": "assignments.shell.cmd_pkgs.file_redirect",
+        "peekOfCode": "def file_redirect(args, cwd):\n    '''\n    :Function:      file_redirect\n    :parameters:    args: arguments passed from command line\n    :               cwd: current working directory of shell\n    :Usage:         [cmd] > [filename]\n    :Description:   The command moves the output of whatever command parsed before the \n    :               chain operator, and and appends it to the filename given by the\n    :               user in args.\n    '''",
+        "detail": "assignments.shell.cmd_pkgs.file_redirect",
+        "documentation": {}
+    },
+    {
+        "label": "file_append",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.file_redirect",
+        "description": "assignments.shell.cmd_pkgs.file_redirect",
+        "peekOfCode": "def file_append(args,cwd):\n    '''\n    :**************************************************************************\n    :Function:      file_append\n    :Arguments:     args: arguments passed by the user from the command line\n    :               cwd: current working directory of the terminal\n    :Usage:         [cmd] >> [filepath]\n    :Description:   the function appends the return of one command to the user\n    :               designated file path\n    :**************************************************************************",
+        "detail": "assignments.shell.cmd_pkgs.file_redirect",
+        "documentation": {}
+    },
+    {
+        "label": "grep",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.grep",
+        "description": "assignments.shell.cmd_pkgs.grep",
+        "peekOfCode": "def grep(args, cwd):\n    '''\n    :Function:      grep\n    :Usage:         grep [flags] [patterns] [File/Directory]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   the function checks for existing patterns in a file. If the -l flag is\n    :               passed, only the file name will be printed if found.  If not passed, the line number,\n    :               text matching expression will be printed to the screen",
+        "detail": "assignments.shell.cmd_pkgs.grep",
+        "documentation": {}
+    },
+    {
+        "label": "flags",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.grep",
+        "description": "assignments.shell.cmd_pkgs.grep",
+        "peekOfCode": "flags = []\ndef grep(args, cwd):\n    '''\n    :Function:      grep\n    :Usage:         grep [flags] [patterns] [File/Directory]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   the function checks for existing patterns in a file. If the -l flag is\n    :               passed, only the file name will be printed if found.  If not passed, the line number,",
+        "detail": "assignments.shell.cmd_pkgs.grep",
+        "documentation": {}
+    },
+    {
+        "label": "head",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.head",
+        "description": "assignments.shell.cmd_pkgs.head",
+        "peekOfCode": "def head(args, cwd):\n    '''\n    :Function:      head\n    :Usage:         head [n=lines read] [file/directory]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   the function reads the first n lines of the files/directory passed. If n is not\n    :               passed, 10 lines will be read and printed to the screen.\n    :Todo:          Test more",
+        "detail": "assignments.shell.cmd_pkgs.head",
+        "documentation": {}
+    },
+    {
+        "label": "head_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.head",
+        "description": "assignments.shell.cmd_pkgs.head",
+        "peekOfCode": "head_dict = {\n       'n': False,\n       }\ndef head(args, cwd):\n    '''\n    :Function:      head\n    :Usage:         head [n=lines read] [file/directory]\n    :Author:        Buddy Smith\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory",
+        "detail": "assignments.shell.cmd_pkgs.head",
+        "documentation": {}
+    },
+    {
+        "label": "help",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.help",
+        "description": "assignments.shell.cmd_pkgs.help",
+        "peekOfCode": "def help(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    rs.set_return_values(str(__doc__))\n    rs.set_return_status(1)\n    return rs",
+        "detail": "assignments.shell.cmd_pkgs.help",
+        "documentation": {}
+    },
+    {
+        "label": "history",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.history",
+        "description": "assignments.shell.cmd_pkgs.history",
+        "peekOfCode": "def history(args, cwd):\n    '''\n    :Function: history\n    :Parameters: args: arguments passed from shell.py \n    :          : cwd: current working directory of the shell\n    :Usage: history\n    :Returns: ReturnStatus object containing a list\n    :Description: the function returns a list of all entered commands executed\n    :           : in PyShell to be printed to screen. Not to be confused with\n    :           : get_history() that returns an actual list",
+        "detail": "assignments.shell.cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "get_history",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.history",
+        "description": "assignments.shell.cmd_pkgs.history",
+        "peekOfCode": "def get_history():\n    '''\n    :Function: get_history()\n    :Parameters: none\n    :Usage: not a command function\n    :Returns: list of executed commands in terminal\n    :Description: opens history.txt and returns items in file as a list\n    :Problems: none\n    :To-Dos: none\n    '''",
+        "detail": "assignments.shell.cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "set_history",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.history",
+        "description": "assignments.shell.cmd_pkgs.history",
+        "peekOfCode": "def set_history(new_list):\n    '''\n    :Function: set_history\n    :Parameters: new_list: list of updated history\n    :Usage: not a command function\n    :Returns: none\n    :Description: functions opens history.txt and overwrites contents\n    :           : with the new list\n    :Problems: none\n    :To-Dos: none",
+        "detail": "assignments.shell.cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.history",
+        "description": "assignments.shell.cmd_pkgs.history",
+        "peekOfCode": "path = os.path.abspath('cmd_pkgs/history.txt')\ndef history(args, cwd):\n    '''\n    :Function: history\n    :Parameters: args: arguments passed from shell.py \n    :          : cwd: current working directory of the shell\n    :Usage: history\n    :Returns: ReturnStatus object containing a list\n    :Description: the function returns a list of all entered commands executed\n    :           : in PyShell to be printed to screen. Not to be confused with",
+        "detail": "assignments.shell.cmd_pkgs.history",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def ls(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    ap = ArgParse(args, arg_dict, cwd, __doc__)\n    flags = ap.get_flags()\n    directories = ap.get_directories()\n    if 'INVALID PATH' in directories:\n        rs.set_return_status(0)\n        rs.set_return_values('INVALID PATHa')\n        return rs",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "get_octal_count",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def get_octal_count(flags):\n    # 8 possible outcomes exist, but in reality, 4 pairs tr\n    base = 0o000\n    base |= 0o100 if 'l' in flags else 0o000\n    base |= 0o010 if 'a' in flags else 0o000\n    base |= 0o001 if 'h' in flags else 0o000\n    return base\ndef call_ls_type(octal_flag, directories, rs, cwd):\n    if (octal_flag == 0o0) or (octal_flag == 0o001):\n        just_ls(directories, rs,cwd)",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "call_ls_type",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def call_ls_type(octal_flag, directories, rs, cwd):\n    if (octal_flag == 0o0) or (octal_flag == 0o001):\n        just_ls(directories, rs,cwd)\n    elif (octal_flag == 0o010) or (octal_flag == 0o011):\n        all_ls(directories, rs,cwd, octal_flag)\n    elif (octal_flag == 0o100 ) or (octal_flag == 0o101):\n        long_ls(directories, rs,cwd,octal_flag)\n    elif (octal_flag == 0o110) or (octal_flag == 0o111):\n        long_ls(directories, rs,cwd,octal_flag)\ndef just_ls(directories, rs, cwd):",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "just_ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def just_ls(directories, rs, cwd):\n    # Equivalent to ls or ls -h\n    dir_results = []\n    file_results = []\n    for directory in directories:\n        # iterate passed directories\n        if os.path.isdir(directory):\n            for i in os.listdir(directory):\n                # if di\n                if os.path.isdir(i):",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "all_ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def all_ls(directories, rs,cwd,octal_flag):\n    # function is equivalient to ls -a or ls -ah\n    hidden_files = []\n    hidden_files.append(str( '.\\n'))\n    hidden_files.append(str('..\\n' ))\n    rs.set_return_status(1)\n    file_results = []\n    dir_results = []\n    for directory in directories:\n        # iterate passed directories",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "long_ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def long_ls(directories, rs,cwd,octal_flag):\n    hidden_files = []\n    hidden_directories =[]\n    reg_files = []\n    reg_directories = []\n    all_flag = octal_flag & 0o010\n    list_all = (all_flag == 0o010)\n    for directory in directories:\n        dir_len = len([x for x in os.listdir(directory) if os.path.isfile(x) or os.path.isdir(x)])\n        if os.path.isdir(directory) and (dir_len > 0):",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "long_all_ls",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def long_all_ls(directories, rs):\n    pass\ndef get_printable_size(byte_size):\n    # I found this online, seemed like a worthwhile solution.  Referrence is included\n    \"\"\"\n    A bit is the smallest unit, it's either 0 or 1\n    1 byte = 1 octet = 8 bits\n    1 kB = 1 kilobyte = 1000 bytes = 10^3 bytes\n    1 KiB = 1 kibibyte = 1024 bytes = 2^10 bytes\n    1 KB = 1 kibibyte OR kilobyte ~= 1024 bytes ~= 2^10 bytes (it usually means 1024 bytes but sometimes it's 1000... ask the sysadmin ;) )",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "get_printable_size",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "def get_printable_size(byte_size):\n    # I found this online, seemed like a worthwhile solution.  Referrence is included\n    \"\"\"\n    A bit is the smallest unit, it's either 0 or 1\n    1 byte = 1 octet = 8 bits\n    1 kB = 1 kilobyte = 1000 bytes = 10^3 bytes\n    1 KiB = 1 kibibyte = 1024 bytes = 2^10 bytes\n    1 KB = 1 kibibyte OR kilobyte ~= 1024 bytes ~= 2^10 bytes (it usually means 1024 bytes but sometimes it's 1000... ask the sysadmin ;) )\n    1 kb = 1 kilobits = 1000 bits (this notation should not be used, as it is very confusing)\n    1 ko = 1 kilooctet = 1000 octets = 1000 bytes = 1 kB",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "arg_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.ls",
+        "description": "assignments.shell.cmd_pkgs.ls",
+        "peekOfCode": "arg_dict = {\n    'l': 0o100,\n    'a': 0o010,\n    'h': 0o001,\n}\ndef ls(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    ap = ArgParse(args, arg_dict, cwd, __doc__)\n    flags = ap.get_flags()",
+        "detail": "assignments.shell.cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.mkdir",
+        "description": "assignments.shell.cmd_pkgs.mkdir",
+        "peekOfCode": "def mkdir(args, cwd):\n    '''\n    :Function: mkdir\n    :Parameters: args: arguments passed by shell\n    :          : cwd: current working directory\n    :Usage: mkdir [futurepath]\n    :Returns: ReturnStatus object\n    :Description: makes a new directory as passed by the user.\n    :Problems: nada\n    :To-Dos: none",
+        "detail": "assignments.shell.cmd_pkgs.mkdir",
+        "documentation": {}
+    },
+    {
+        "label": "mv",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.mv",
+        "description": "assignments.shell.cmd_pkgs.mv",
+        "peekOfCode": "def mv(args, cwd):\n    '''\n    :Function: mv\n    :Parameters: args: arguments passed from the command line\n    :          : cwd: current working directory of shell.\n    :Usage: mv [src] [destination]\n    :Returns: ReturnSet object\n    :Description: moves a file from one destination to another, original source is moved\n    :Problems: nada\n    :To-Dos: none",
+        "detail": "assignments.shell.cmd_pkgs.mv",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.pwd",
+        "description": "assignments.shell.cmd_pkgs.pwd",
+        "peekOfCode": "def pwd(args, cwd):\n    '''\n    :Function: pwd\n    :Parameters: args: arguments passed by user\n    :          : cwd: current working directory of shell\n    :Usage: pwd\n    :Returns: ReturnStatus object  \n    :Description: returns the current working directory of pyshell\n    :Problems: nada\n    :To-Dos: none",
+        "detail": "assignments.shell.cmd_pkgs.pwd",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnStatus",
+        "kind": 6,
+        "importPath": "assignments.shell.cmd_pkgs.return_status",
+        "description": "assignments.shell.cmd_pkgs.return_status",
+        "peekOfCode": "class ReturnStatus:\n    '''\n    :Class: ReturnStatus\n    :Constructor: Default\n    :Parameters: none\n    :Members: return_status\n    :       : cwd\n    :       : return_values\n    :Methods: set_return_status\n    :       : get_return_status",
+        "detail": "assignments.shell.cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
+        "label": "rm",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.rm",
+        "description": "assignments.shell.cmd_pkgs.rm",
+        "peekOfCode": "def rm(args, cwd):\n    '''\n    :Function: rm\n    :Parameters: args: arguments passed from shell\n    :          : cwd: current shell directory\n    :Usage: rm [flags] [path]\n    :Returns: ReturnStatus object\n    :Description: Method will delete the given path parsed by shell if a file or \n    :           : empty directory.  If a non empty directory is parsed, the -r or -f\n    :           : flags must be passed or will return a failure status",
+        "detail": "assignments.shell.cmd_pkgs.rm",
+        "documentation": {}
+    },
+    {
+        "label": "arg_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.rm",
+        "description": "assignments.shell.cmd_pkgs.rm",
+        "peekOfCode": "arg_dict = {\n    'r' : False,\n    'f': False,\n    'y': False\n}\ndef rm(args, cwd):\n    '''\n    :Function: rm\n    :Parameters: args: arguments passed from shell\n    :          : cwd: current shell directory",
+        "detail": "assignments.shell.cmd_pkgs.rm",
+        "documentation": {}
+    },
+    {
+        "label": "rmdir",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.rmdir",
+        "description": "assignments.shell.cmd_pkgs.rmdir",
+        "peekOfCode": "def rmdir(args, cwd):\n    '''\n    :Function: rmdir\n    :Parameters: args: arguments passed from the shell\n    :          : cwd: current working directory of shell\n    :Usage: rm [path]\n    :Returns: ReturnStatus object\n    :Description: removes a non empty directory.  if the directory\n    :           : has contents, the -r or -f must be passed to forec\n    :           : deletion",
+        "detail": "assignments.shell.cmd_pkgs.rmdir",
+        "documentation": {}
+    },
+    {
+        "label": "sort",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.sort",
+        "description": "assignments.shell.cmd_pkgs.sort",
+        "peekOfCode": "def sort(args, cwd):\n    '''\n    :Function: sort\n    :Parameters: args: arguments passed by user\n    :          : cwd: current working directory of shell\n    :Usage: sort [file]\n    :Returns: ReturnStatus object\n    :Description: sorts a files contents\n    :Problems: none\n    :To-Dos: add functionality to sort other values such as just conetents if passed",
+        "detail": "assignments.shell.cmd_pkgs.sort",
+        "documentation": {}
+    },
+    {
+        "label": "tail",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.tail",
+        "description": "assignments.shell.cmd_pkgs.tail",
+        "peekOfCode": "def tail(args, cwd):\n    '''\n    :Function:      tail\n    :Usage:         tail OPTION... [FILE]...\n    :Author:        Buddy Smith & Leila Kalantari\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   prints the last few number of lines (10 lines by default)\n                    of a certain file, then terminates.\n    :Todo:          Test more",
+        "detail": "assignments.shell.cmd_pkgs.tail",
+        "documentation": {}
+    },
+    {
+        "label": "touch",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.touch",
+        "description": "assignments.shell.cmd_pkgs.touch",
+        "peekOfCode": "def touch(args, cwd):\n    '''\n    :Function:    touch\n    :Arguments:   args: commands passed via shell \n    :         :   cwd: current working directory of shell\n    :Description: creates a file in the path the user selected\n    :Bugs:        None\n    :Returns:     ReturnStatus object\n    '''\n    touchpath = args[1]",
+        "detail": "assignments.shell.cmd_pkgs.touch",
+        "documentation": {}
+    },
+    {
+        "label": "wc",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.wc",
+        "description": "assignments.shell.cmd_pkgs.wc",
+        "peekOfCode": "def wc(args, cwd):\n    '''\n    :Function:      wc\n    :Usage:         wc OPTION... [FILE]...\n    :Author:        Buddy Smith & Leila Kalantari\n    :Parameters:    args: parameters from command line\n    :               cwd: current working directory\n    :Description:   Count Number of Lines, Words, and Characters\n    :Todo:          Test more\n    :Returns:       Returns the ReturnStatus object consisting  of status, return values, and the cwd",
+        "detail": "assignments.shell.cmd_pkgs.wc",
+        "documentation": {}
+    },
+    {
+        "label": "arg_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.cmd_pkgs.wc",
+        "description": "assignments.shell.cmd_pkgs.wc",
+        "peekOfCode": "arg_dict = {\n    'l': False,\n    'm': False,\n    'w': False,\n}\ndef wc(args, cwd):\n    '''\n    :Function:      wc\n    :Usage:         wc OPTION... [FILE]...\n    :Author:        Buddy Smith & Leila Kalantari",
+        "detail": "assignments.shell.cmd_pkgs.wc",
+        "documentation": {}
+    },
+    {
+        "label": "who",
+        "kind": 2,
+        "importPath": "assignments.shell.cmd_pkgs.who",
+        "description": "assignments.shell.cmd_pkgs.who",
+        "peekOfCode": "def who(args, cwd):\n    '''\n                   :Function:      who\n                   :Usage:         who OPTION... [FILE]...\n                   :Author:        Buddy Smith & Leila Kalantari\n                   :Parameters:    args: parameters from command line\n                   :               cwd: current working directory\n                   :Description:   displays users who are currently logged on.\n                   :Todo:          Test more\n                   :Returns:       Returns the ReturnStatus object consisting  of status, return values, and the cwd",
+        "detail": "assignments.shell.cmd_pkgs.who",
+        "documentation": {}
+    },
+    {
+        "label": "Shell",
+        "kind": 6,
+        "importPath": "assignments.shell.shell",
+        "description": "assignments.shell.shell",
+        "peekOfCode": "class Shell:\n    def __init__(self):\n        self.cwd = os.path.expanduser('~')\n        self.hist_list = get_history()\n        print_banner()\n        self.main()\n        colorama.init()\n    def main(self):\n        start_ptr = 0\n        hist_ptr = len(self.hist_list) -1",
+        "detail": "assignments.shell.shell",
+        "documentation": {}
+    },
+    {
+        "label": "print_cmd",
+        "kind": 2,
+        "importPath": "assignments.shell.shell",
+        "description": "assignments.shell.shell",
+        "peekOfCode": "def print_cmd( cmd):\n    prompt = str(f'%:' )\n    padding = \" \" * 80\n    sys.stdout.write(Fore.CYAN + Style.BRIGHT+ \"\\r\" + padding)\n    sys.stdout.write(\"\\r\"+ prompt + Style.RESET_ALL+ cmd)\n    sys.stdout.flush()\nclass Shell:\n    def __init__(self):\n        self.cwd = os.path.expanduser('~')\n        self.hist_list = get_history()",
+        "detail": "assignments.shell.shell",
+        "documentation": {}
+    },
+    {
+        "label": "command_dict",
+        "kind": 5,
+        "importPath": "assignments.shell.shell",
+        "description": "assignments.shell.shell",
+        "peekOfCode": "command_dict = {\n        'ls': ls,\n        'cat': cat,\n        'cd': cd,\n        'mv': mv,\n        'rm': rm,\n        'head': head,\n        'help': help,      \n        'mkdir' : mkdir,\n        'grep' : grep,",
+        "detail": "assignments.shell.shell",
+        "documentation": {}
+    }
+]

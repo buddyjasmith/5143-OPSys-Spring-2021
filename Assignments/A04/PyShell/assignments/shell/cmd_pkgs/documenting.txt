@@ -1,0 +1,21 @@
+'''
+:Function:
+:Parameters:
+:Usage:
+:Returns:
+:Description:
+:Problems:
+:To-Dos:
+'''
+'''
+        :**********************************************************************
+        :Method: ChainHelper(cmd_in)
+        :Parameters: cmd_in
+        :Returns: na
+        :Description: sets internal data memeber to cmd_in and begins the 
+        :           : process of splitting cmd_in into mulitple commands
+        :           : if present
+        :Problems: ??
+        :To-Dos: ?? Maybe combine this class with ArgParser
+        :**********************************************************************
+        '''
