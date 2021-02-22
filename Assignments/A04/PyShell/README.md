@@ -40,7 +40,7 @@ python3 shell.py
 | &#124;&#124; | Buddy | |:heavy_check_mark:|
 | &#124;| Buddy | |:heavy_check_mark:|
 | < |Buddy | |:x:|
-| << | Buddy | |:x: |
+| << | Buddy | |:heavy_check_mark: |
 
 
 ### Helper files
