@@ -35,20 +35,25 @@ def head(args, cwd):
     :Bugs:          None at this time
     '''
     rs = ReturnStatus() # object returned to shell with results
-    
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     ap = ArgParse(args,head_dict,cwd,__doc__)
     n_flags = [x for x in args if  x.startswith('-')]    # get list of items that start with '-'
     
     head = None
     directories = ap.get_directories()
-    if n_flags is None:
+    if not n_flags:
            n_flags = 10
     else:
        n_flags = n_flags[0]
        n_flags = int(n_flags[1:])
-   
+    #print(f'N={n_flags}')
+    #print(type(n_flags))
     head_contents=''
-    print(directories)
+    #print(directories)
     for dir in directories:
        
        if os.path.isdir(dir):

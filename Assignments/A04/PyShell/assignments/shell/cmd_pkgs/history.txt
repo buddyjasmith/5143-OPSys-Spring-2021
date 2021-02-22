@@ -2305,3 +2305,394 @@ cat bananas/test.txt > tester
 ls
 cat tester
 ls
+ls
+cp nope test.txt
+ls
+rm nope
+ls
+rm nope
+rm nope
+rm nope
+ls
+ls
+rm nope
+ls
+rm nope
+touch tester.txt
+rm tester.txt
+ls
+ls
+cd tester.txt
+cd bananas
+ls
+ls
+cd ..
+ls
+rm testdelee
+ls
+cd testdelee
+ls
+cd ..
+rm testdelee
+ls
+rm testdelee
+ls
+cd testdelee
+ls
+cd ..
+ls
+rm testdelee
+ls
+rm testdir
+ls
+rm testdir
+rm testdir
+ls
+rm testdir
+rm testdir
+ls
+cd testdir
+ls
+touch this.txt
+cd ..
+rm testdir
+rm testdir
+ls
+rm testdir
+rm testdir
+rm testdir
+rm testdir
+rm -rf testdir
+ls
+mkdir test
+ls
+rm test
+ls
+mkdir fuckthis
+rm fuckthis
+ls
+mkdir empty
+rm empty
+ls
+rm tester.txt
+ls
+cd bananas
+ls
+cd ..
+rm -rf bananas
+ls
+ls -lah
+ls
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+ls
+move test.txt bananas
+mv test.txt bananas
+ls
+cd bananas
+ls
+cd ..
+ls
+mkdir somefile.txt
+rm somefile.txt
+ls
+ls
+cd bananas
+ls
+cd ..
+mkdir testfolder
+cp bananas/test.txt somefile/otherfile.txt
+cat test1.txt
+cat bacon1.txt
+sort bacon1.txt
+history
+ls
+cd testfolder
+ls
+cd ..
+rm testfolder
+ls
+rm nope
+ls
+rm nope
+ls
+ls
+rm nope
+rm nope
+rm nope
+rm help
+cp --help
+head --help
+ls
+ls -lah bananas
+ls -lah
+head bacon1.txt
+head -11 bacon1.txt
+tail -10 bacon1.txt
+tail bacon1.txt
+grep -l 'bacon' bacon1.txt
+ls -lah test.txt
+ls
+ls Public
+ls -lah Public
+ls -lah Public/
+ls -lah Downloads/googlechrome.dmg
+ls -l Downloads
+ls -a Downloads
+ls -la Downloads
+ls -lah > sort -C
+ls -l < sort -C
+ls -l > sort -C
+ls -l < sort -C
+ls -l > sort -C
+ls -l > sort -C
+ls -l < sort -C
+ls > sort -C
+ls -l < sort -C
+ls > sort -C
+ls -l | sort -C
+ls
+cat sort
+cat sort
+cat bacon1.txt > other
+cat other
+ls
+ls
+ls -lah
+ls -lah .
+ls
+ls -lah .
+ls
+chmod 000 test.txt
+ls -l test.txt
+chmod u+rwx test.txt
+ls -l test.txt
+cd non
+ls
+ls Applications
+ls Documents
+ls -lah Documents
+ls -a Documents
+ls
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+ls
+mv test.txt bananas
+cp bananas/test.txt somefile/otherfile.txt
+cat test.txt
+ls
+cat bananas/test.txt
+ls -lah bananas/test.txt
+chmod 777 bananas/test.txt
+ls
+rm -rf bananas/test.txt
+rm bananas/test.txt
+rm -rf bananas
+ls
+ls -lah
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+touch testfile.txt
+ls
+ls
+cat testfile.txt
+sort testfile.txt
+cat bacon.txt
+sort bacon.txt
+ls
+ls -lah
+ls
+mkdir bananas
+cd bananas
+ls
+cd ..
+cd ~
+pwd
+mv testfile.txt bananas
+cp bananas/testfile.txt somefile/other.txt
+rm -rf bananas
+ls
+cat bacon.txt
+head -10 bacon.txt
+tail -10 bacon.txt
+ls
+ls
+cat salem.txt
+head -10 salem.txt
+tail -11 salem.txt
+head this
+ls -lah
+ls
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+pwd
+touch nothingfile.txt
+mv nothingfile.txt bananas
+cp bananas/nothingfile.txt somefile/otherfile.txt
+rm -rf bananas
+cat bacon.txt
+cat salem.txt
+grep -l 'bacon' bacon.txt
+grep 'bacon' bacon.txt
+ls
+chmod u-rwx bacon1.txt
+ls -lah bacon1.txt
+ls > ls.txt
+cat >> this
+cat << this
+cat << fair engouh
+cat << this
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << salem.txt
+cat << sale
+cat << sa
+cat << sale
+cat << sa
+cat << sale
+cat << salem.txt
+ls
+cd bananas
+ls
+cd ..
+cp bananas/ls.txt somefile/otherfile.txt
+mv bananas/ls.txt some/file.txt
+mv bananas/ls.txt some/file.txt
+cd
+cd ..
+ls
+cd buddysmith
+ls
+rm bananas
+rm -rf bananas
+cat salem.txt
+ls
+head bacon.txt -10
+sort bacon.txt
+grep 'bacon' bacon.txt | wc -C
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+cat bacon.txt bacon1.txt
+chmod 000 bacon1.txt
+cat bacon1.txt
+cat bob.txt >> bob
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.txt
+cat bob.py
+cat bob.py
+cat bob.py
+ls bob | wc -l
+ls bob | wc -l
+ls
+ls bob
+ls bob | wc -C
+ls bob
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+ls bob | wc -C
+lb bob | wc
+ls bob
+ls bob | wc
+ls bob && wc
+ls bob | wc
+ls bob && wc
+ls bob | wc
+ls bob && wc
+ls bob && this
+ls bob && wc
+ls bob && this
+ls bob && wc
+ls bob && this
+ls bob && wc
+ls bob && this
+ls bob && wc
+ls bob && this
+ls bob && wc
+ls bob && this
+ls bob | wc -C
+ls bob && wc -c
+ls bob
+ls
+ls Documents && wc -C
+ls Documents
+ls Documents | wc -C
+ls Documents > documents
+ls
+ls Documents > cat
+ls
+cat cat
+ls Documents > cat
+cat cat
+ls Documents > cat
+cat cat
+ls Documents > cat
+ls -lah
+code #.vimrc#
+ls -lah
+ls -lah
+ls
+cd bananas
+mkdir bananas
+cd bananas
+cd ..
+cd ~
+touch bacon.txt
+mv bacon.txt bananas
+ls
+ls
+head bacon.txt
+head -11 bacon.txt
+head -15 bacon.txt
+tail -15 bacon.txt
+grep 'bacon' bacon.txt
+history
+ls bacon.txt | wc -C
+chmod 000 bacon.txt
+ls -lah bacon.txt
+chmod u+rwx bacon.txt
+ls -lah bacon.txt
+ls -lah > ls.txt
+ls
+cat ls.txt
+ls -lah > ls.txt
+ls -lah > ls.txt

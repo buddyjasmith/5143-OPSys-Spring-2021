@@ -40,8 +40,8 @@ def rm(args, cwd):
     rs = ReturnStatus()
     rs.set_cwd(cwd)
     
-    if 'help' in arg_dict:
-        sys.stdout.write(__doc__ + '\n')
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
         rs.set_return_status(1)
         rs.set_return_values(__doc__)
         return rs
@@ -51,22 +51,62 @@ def rm(args, cwd):
                 try:
                     for dir in directories:
                         
-                        test = os.listdir(dir)
-                        len_test = len(test)
-                       
-                        if os.path.isdir(dir) and (len_test > 0):
-                            raise IsADirectoryError
-                        shutil.rmtree(dir)
+                        if os.path.isdir(dir):
+                            test = os.listdir(dir)
+                            len_test = len(test)
+                            
+                            if len_test > 0:
+                                rs.set_return_values('Non Empty Directory. Use -f or -r to remove')
+                                rs.set_return_status(0)
+                                
+                            elif len_test == 0:
+                                shutil.rmtree(dir)
+                                rs.set_return_status(1)
+                                rs.set_return_values(dir)
+                            
+                        elif os.path.isfile(dir):
+                            os.remove(dir)
+                            rs.set_return_status(1)
+                            rs.set_return_values(dir)
+                        else:
+                            rs.set_return_values('Non Existent path')
+                            rs.set_return_status(0)
+                    
+                        # if os.path.isdir(dir) :
+                        #     print('a')
+                        #     test = os.listdir(dir)
+                        #     len_test = len(test)
+                        #     print(len_test)
+                        #     if len_test > 0:
+                        #         print('b')
+                        #         if 'r' in flags or 'f' in flags:
+                        #             print('c')
+                        #             print('this is being entere')
+                        #             shutil.rmtree(dir, ignore_errors=True)
+                        #             rs.set_return_status(1)
+                        #             rs.set_return_values(dir)
+                        #         else:
+                        #             print('d')
+                        #             rs.set_return_status(0)
+                        #             rs.set_return_value('Non-Empty Directory: use -r of -f to remove')
+                        #     elif len == 0:
+                        #         print('e')
+                        #         shutil.rmtree(dir)
+                        
+                        # elif os.path.isfile(dir):
+                        #     print('wft')
+                        #     os.remove(dir)
+                        #     rs.set_return_status(1)
+                        #     rs.set_return_values(dir)
                         #p = Path(dir)
                         #p.unlink(False)
-                        rs.set_return_status(1)
-                        rs.set_return_values(dir)
+                     
                 except FileNotFoundError:
                     rs.set_return_status(0)
                     rs.set_return_values(str(Fore.RED + 'File not found' + Style.RESET_ALL))
                    
                 except IsADirectoryError:
-                    
+                        
                     rs.set_return_status(0)
                     rs.set_return_values(str(Fore.RED +'Directory is not empty\nuse -r to recursively remove directory or -rf to force removal\n'+ Style.RESET_ALL))
                 except Exception as ex:
@@ -76,6 +116,7 @@ def rm(args, cwd):
                     rs.set_return_values(message)
                     rs.set_return_values(traceback.format_exc())
                 finally:
+                 
                     return rs
             else:
                 error = 'rm: missing operand\n'
@@ -104,12 +145,12 @@ def rm(args, cwd):
                                 rs.set_return_status(0)
                                 rs.set_return_values(dir +' :Internal Error. Use -r option to delete')
                                 
-
+                            
                         elif os.path.isdir(dir):
                             shutil.rmtree(dir)
                             rs.set_return_status(1)
                             rs.set_return_values(dir)
-
+                        
             elif any("*" in s for s in directories):
                 wild_paths = [s for s in directories if '*' in s]
                 rs.set_return_status(1)
@@ -124,7 +165,7 @@ def rm(args, cwd):
                                
                                rs.set_return_values(file)
                             elif os.path.isfile(file):
-                                #print('Filepath is a file')
+                                
                                 os.remove(file)
                                 rs.set_return_values(file)
                         elif 'n' in command.lower():

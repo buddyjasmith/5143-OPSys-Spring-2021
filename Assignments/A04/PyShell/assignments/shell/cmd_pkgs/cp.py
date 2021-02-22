@@ -28,7 +28,11 @@ def cp(args,cwd):
     rs = ReturnStatus()
     rs.set_cwd(cwd)
     retun_val = ''
-    
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     if len(args) == 3:
         
         os.chdir(cwd)

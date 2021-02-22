@@ -33,7 +33,11 @@ def mv(args, cwd):
     args.pop(0)
     rs = ReturnStatus()
     rs.set_cwd(cwd)
-    
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     current_dir = cwd
     # Pass empty dict because no arguments required for project
     
@@ -43,12 +47,18 @@ def mv(args, cwd):
     if len(args) == 2:
         src = os.path.abspath(os.path.join(cwd,args[0]))
         dest = os.path.abspath(os.path.join(cwd, args[1]))
+        dest_dir = os.path.dirname(dest)
         if os.path.exists(src) :
             dest_file = os.path.basename(dest)
-            print(dest_file)
-            shutil.move(src, dest)
-            rs.set_return_status(1)
-            rs.set_return_values(dest)
+            if os.path.exists(dest_dir):
+                shutil.move(src, dest)
+                rs.set_return_status(1)
+                rs.set_return_values(dest)
+            else:
+                rs.set_return_status(0)
+                rs.set_return_values(f"Invalid destination path: {dest_dir}")
+                
+           
         elif not os.path.exists(src):
             rs.set_return_status(0)
             rs.set_return_values(Fore.YELLOW + 'Invalid source:' + Style.RESET_ALL)

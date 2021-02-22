@@ -49,7 +49,14 @@ def cd(args, cwd):
     if len(args) == 1:
         # No arguments after cd were given...change to home directory by default
         path = os.path.expanduser('~')
-        os.chdir(path)
+
+        try:
+            os.chdir(path)
+        except NotADirectoryError:
+            rs.set_return_values(0)
+            rs.set_cwd(path)
+            rs.set_return_values('Not a directory')
+            return rs
         rs.set_cwd(path)
         temp_path = str(path)
         rs.set_return_status(1)
@@ -57,7 +64,13 @@ def cd(args, cwd):
         # two arguments were, given and argparser verified path existed
         temp_path = change_path[0]
         if os.path.exists(temp_path):
-            os.chdir(temp_path)
+            try:
+                os.chdir(temp_path)
+            except NotADirectoryError:
+                rs.set_return_values(0)
+                rs.set_return_values("Not a directory")
+                rs.set_cwd(cwd)
+                return rs
             rs.set_cwd(temp_path)
             rs.set_return_status(1)
         else:

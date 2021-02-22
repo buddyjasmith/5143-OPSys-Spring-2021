@@ -31,11 +31,15 @@ def ls(args, cwd):
     ap = ArgParse(args, arg_dict, cwd, __doc__)
     flags = ap.get_flags()
     directories = ap.get_directories()
-   
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     if 'INVALID PATH' in directories:
-        
+
         rs.set_return_status(0)
-        rs.set_return_values('INVALID PATHa')
+        rs.set_return_values('INVALID PATH')
         return rs
     if len(directories) == 0:
         directories.append(os.path.abspath(cwd))
@@ -161,9 +165,9 @@ def long_ls(directories, rs,cwd,octal_flag):
     
    
     for directory in directories:
-        dir_len = len([x for x in os.listdir(directory) if os.path.isfile(x) or os.path.isdir(x)])
-        if os.path.isdir(directory) and (dir_len > 0):
-            print('Path is directory')
+        
+        if os.path.isdir(directory) :
+            dir_len = len([x for x in os.listdir(directory) if os.path.isdir(x)])
             for i in os.listdir(directory):
                 
                 abspath = os.path.abspath(os.path.join(directory,i))

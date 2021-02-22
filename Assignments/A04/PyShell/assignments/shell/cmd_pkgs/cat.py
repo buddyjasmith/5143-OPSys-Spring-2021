@@ -46,12 +46,13 @@ def cat(args, cwd):
     #     rs.set_return_values('cat does not support flags at this time')
     #     rs.set_return_values(__doc__)
     directories = arg_parse.get_directories()
+    #print(directories)
     num = 0
     files_contents=[]
     for p in directories:
         
         path = os.path.abspath(os.path.join(cwd,p))
-        
+       
         if os.path.isdir(path) and 'd' in flags:
            
             directory = os.listdir(path)
@@ -61,6 +62,7 @@ def cat(args, cwd):
                 files_contents.append(str(Fore.GREEN + '\n' + dir + ':' + Style.RESET_ALL))
                 current_path = os.path.abspath(os.path.join(cwd,p))
                 current_path = os.path.abspath(os.path.join(current_path, dir))
+               
                 try:
                     with open(current_path, 'r') as file:
                         lines = file.read().splitlines()
@@ -81,7 +83,7 @@ def cat(args, cwd):
             return rs
         else:
             path = os.path.abspath(os.path.join(cwd, p))
-            print(path)
+            
             if os.path.exists(path):
                 try:
                     with open(path, 'r') as file:
@@ -89,15 +91,23 @@ def cat(args, cwd):
                         for line in lines:
                             files_contents.append(line)
                     temp_contents = '\n'.join(files_contents)
+                    #print(temp_contents)
                     if temp_contents:
                         rs.set_return_values(temp_contents)
                         rs.set_return_status(1)
+                except PermissionError:
+                    rs.set_return_values('Invalid permissions:')
+                    rs.set_return_status(0)
+                    return rs
                 except Exception:
                     rs.set_return_values('Unable to open file')
                     rs.set_return_values(0)
                     return rs
             else:
-                rs.get_return_status(0)
-                rs.set_return_values('Invalid path entered\n')        
-
+                
+                rs.set_return_status(0)
+                rs.set_return_values('Invalid path entered\n')   
+                
+                
+                return rs
     return rs

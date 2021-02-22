@@ -1,6 +1,3 @@
-'''Dr griffin
-code
-'''
 '''
 Name
      wc
@@ -42,7 +39,11 @@ def wc(args, cwd):
     flags = arg_parse.get_flags()
     rs = ReturnStatus()
     rs.set_cwd(cwd)
-    
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     directories = arg_parse.get_directories()
     big_C = '-C' in args
     if big_C:

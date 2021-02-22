@@ -30,6 +30,11 @@ def tail(args, cwd):
     '''
     rs = ReturnStatus()
     rs.set_cwd(cwd)
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     args.pop(0) #remove first commands from args
     flags =  [x for x in args if x.startswith('--') or x.startswith('-')]
     args = [x for x in args if not x.startswith('-') or not x.startswith('--')]

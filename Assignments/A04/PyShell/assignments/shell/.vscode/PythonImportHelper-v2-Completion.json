@@ -530,6 +530,14 @@
         "documentation": {}
     },
     {
+        "label": "ReturnStatus",
+        "importPath": "cmd_pkgs.return_status",
+        "description": "cmd_pkgs.return_status",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.return_status",
+        "documentation": {}
+    },
+    {
         "label": "Path",
         "importPath": "pathlib",
         "description": "pathlib",
@@ -734,6 +742,14 @@
         "documentation": {}
     },
     {
+        "label": "abspath",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
         "label": "basename",
         "importPath": "os.path",
         "description": "os.path",
@@ -799,6 +815,14 @@
         "description": "cmd_pkgs.ls",
         "isExtraImport": true,
         "detail": "cmd_pkgs.ls",
+        "documentation": {}
+    },
+    {
+        "label": "here",
+        "importPath": "cmd_pkgs.here",
+        "description": "cmd_pkgs.here",
+        "isExtraImport": true,
+        "detail": "cmd_pkgs.here",
         "documentation": {}
     },
     {
@@ -1218,6 +1242,15 @@
         "documentation": {}
     },
     {
+        "label": "here",
+        "kind": 2,
+        "importPath": "cmd_pkgs.here",
+        "description": "cmd_pkgs.here",
+        "peekOfCode": "def here(args, cwd):\n    '''\n    :Name:           here\n    :Usage:          << [filepath]\n    :Description:    the here command opens a temporary editor and appends that information to the file passed \n    :                via the command line. The user must\n    '''\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    eof = ''.join(args)",
+        "detail": "cmd_pkgs.here",
+        "documentation": {}
+    },
+    {
         "label": "history",
         "kind": 2,
         "importPath": "cmd_pkgs.history",
@@ -1258,7 +1291,7 @@
         "kind": 2,
         "importPath": "cmd_pkgs.ls",
         "description": "cmd_pkgs.ls",
-        "peekOfCode": "def ls(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    ap = ArgParse(args, arg_dict, cwd, __doc__)\n    flags = ap.get_flags()\n    directories = ap.get_directories()\n    if 'INVALID PATH' in directories:\n        rs.set_return_status(0)\n        rs.set_return_values('INVALID PATHa')\n        return rs",
+        "peekOfCode": "def ls(args, cwd):\n    rs = ReturnStatus()\n    rs.set_cwd(cwd)\n    ap = ArgParse(args, arg_dict, cwd, __doc__)\n    flags = ap.get_flags()\n    directories = ap.get_directories()\n    help_flag = [x for x in args if x.startswith('--help')]\n    if help_flag:\n        rs.set_return_status(1)\n        rs.set_return_values(__doc__)",
         "detail": "cmd_pkgs.ls",
         "documentation": {}
     },
@@ -1303,7 +1336,7 @@
         "kind": 2,
         "importPath": "cmd_pkgs.ls",
         "description": "cmd_pkgs.ls",
-        "peekOfCode": "def long_ls(directories, rs,cwd,octal_flag):\n    hidden_files = []\n    hidden_directories =[]\n    reg_files = []\n    reg_directories = []\n    all_flag = octal_flag & 0o010\n    list_all = (all_flag == 0o010)\n    for directory in directories:\n        dir_len = len([x for x in os.listdir(directory) if os.path.isfile(x) or os.path.isdir(x)])\n        if os.path.isdir(directory) and (dir_len > 0):",
+        "peekOfCode": "def long_ls(directories, rs,cwd,octal_flag):\n    hidden_files = []\n    hidden_directories =[]\n    reg_files = []\n    reg_directories = []\n    all_flag = octal_flag & 0o010\n    list_all = (all_flag == 0o010)\n    for directory in directories:\n        if os.path.isdir(directory) :\n            dir_len = len([x for x in os.listdir(directory) if os.path.isdir(x)])",
         "detail": "cmd_pkgs.ls",
         "documentation": {}
     },
@@ -1456,7 +1489,7 @@
         "kind": 6,
         "importPath": "shell",
         "description": "shell",
-        "peekOfCode": "class Shell:\n    def __init__(self):\n        self.cwd = os.path.expanduser('~')\n        self.hist_list = get_history()\n        print_banner()\n        self.main()\n        colorama.init()\n    def main(self):\n        start_ptr = 0\n        hist_ptr = len(self.hist_list) -1",
+        "peekOfCode": "class Shell:\n    '''\n    Main Class:    Shell\n    Date:          February 17, 2021\n    Contructor:    Default\n    Parameters:    None\n    Data Members:  cwd: current working directory of the shell, updated with every\n                        function call.\n                    hist_list: a list that stores all contents from the file \n                        history.py.",
         "detail": "shell",
         "documentation": {}
     },
@@ -1465,7 +1498,7 @@
         "kind": 2,
         "importPath": "shell",
         "description": "shell",
-        "peekOfCode": "def print_cmd( cmd):\n    prompt = str(f'%:' )\n    padding = \" \" * 80\n    sys.stdout.write(Fore.CYAN + Style.BRIGHT+ \"\\r\" + padding)\n    sys.stdout.write(\"\\r\"+ prompt + Style.RESET_ALL+ cmd)\n    sys.stdout.flush()\nclass Shell:\n    def __init__(self):\n        self.cwd = os.path.expanduser('~')\n        self.hist_list = get_history()",
+        "peekOfCode": "def print_cmd( cmd):\n    '''\n    :Function:      print_cmd\n    :Parameters:    cmd: the value of the string cmd residing in the while loop\n    :Author:        Dr. Griffin/Buddy Smith/Leila Kalantari\n    :Bugs:          Sometimes if created within VS Codes, shell, print out \n    :               is completely off.  Better to use a non simulated terminal\n    :               such as xterm or iterm, etc...\n    '''\n    prompt = str(f'%:' )",
         "detail": "shell",
         "documentation": {}
     },
@@ -1474,7 +1507,7 @@
         "kind": 5,
         "importPath": "shell",
         "description": "shell",
-        "peekOfCode": "command_dict = {\n        'ls': ls,\n        'cat': cat,\n        'cd': cd,\n        'mv': mv,\n        'rm': rm,\n        'head': head,\n        'help': help,      \n        'mkdir' : mkdir,\n        'grep' : grep,",
+        "peekOfCode": "command_dict = {\n        'ls': ls,\n        'cat': cat,\n        'cd': cd,\n        'mv': mv,\n        'rm': rm,\n        'head': head,\n        'help': help,  \n        'here': here,    \n        'mkdir' : mkdir,",
         "detail": "shell",
         "documentation": {}
     }

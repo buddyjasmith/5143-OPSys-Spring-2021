@@ -26,6 +26,11 @@ def who(args, cwd):
                    '''
     rs = ReturnStatus()
     rs.set_cwd(cwd)
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     rs.set_return_status(1)
     rs.set_return_values(f'USER with os.getuid: {str(os.getuid())}\n')  # real user id
     rs.set_return_values(f'USER using getpass: {str(getpass.getuser())}\n') # login name of user

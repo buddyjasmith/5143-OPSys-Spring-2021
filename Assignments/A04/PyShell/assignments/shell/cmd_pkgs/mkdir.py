@@ -24,6 +24,11 @@ def mkdir(args, cwd):
     '''
     rs = ReturnStatus()
     rs.set_cwd(cwd)
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     if not args[1:]:
         rs.set_return_status(0)
         rs.set_return_values('New directory path not given in argument')

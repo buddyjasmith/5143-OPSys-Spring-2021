@@ -34,7 +34,11 @@ def grep(args, cwd):
     rs = ReturnStatus()
    
     rs.set_cwd(cwd)
-
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     # systematically remove flags and expressions from args to be left with file/directory to search
     args.remove('grep')
     flags = [x for x in args if  x.startswith('-')]    # get list of items that start with '-'
@@ -84,7 +88,7 @@ def grep(args, cwd):
                             if exp in line:
                                 if '-l' in flags:
                                     rs.set_return_status(1)
-                                    found = str(f'{p}')
+                                    found = str(f'{os.path.basename(p)}')
                                     return_set.add(found)
                                 else:
                                     rs.set_return_status(1)

@@ -42,7 +42,8 @@ class ChainHelper():
             '|',
             '||',
             '&&',
-            '&'
+            '&',
+            '<<'
         ]
         for i in (self.__split_cmds()):
             self.chain_cmds.append(i)

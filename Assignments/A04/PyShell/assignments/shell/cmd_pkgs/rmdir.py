@@ -35,18 +35,24 @@ def rmdir(args, cwd):
     ap = ArgParse(args, cmd_dict, cwd, __doc__)
     flags = ap.get_flags()
     directories = ap.get_directories()
+    help_flag = [x for x in args if x.startswith('--help')]
+    if help_flag:
+        rs.set_return_status(1)
+        rs.set_return_values(__doc__)
+        return rs
     for dir in directories:
         if len(os.listdir(dir)) == 0:
+            # make sure directory is empty, if so delete
             rs.set_return_status(1)
             rs.set_return_values(f'Deleted path: {dir}\n')
-            
             rmtree(dir)
         elif 'r' in flags or 'f' in flags:
-            
+            # directory is not empty, check if r or f flags, if so allow delete
             rs.set_return_status(1)
             rs.set_return_values(f'Deleted path: {dir}\n')
             rmtree(dir)
         else:
+            # directory is not empty, no flags were passed, do not delete
             rs.set_return_status(0)
             rs.set_return_values(Fore.RED + '\nNon Empty Directory\n' + Style.RESET_ALL)
             rs.set_return_values(__doc__)
