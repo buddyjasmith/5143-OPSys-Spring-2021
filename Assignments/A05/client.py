@@ -7,8 +7,9 @@
 :Description:   This script acts as a client to send randomly generated to a 
 :               stock server to provide consumers/producersdatetime 
 :Global:        ArgParse
-
+​
 '''
+​
 import json
 import threading
 import socket, os.path, datetime, sys
@@ -20,10 +21,10 @@ from random import uniform
 import time
 import logging
 import sys
-
+​
 from datetime import datetime
 import argparse
-
+​
 class SendData():
     '''
     #*************************************************************************
@@ -81,6 +82,12 @@ def generate_random_uuids(lengthof):
         temp_list.append(uuid.uuid4())
     return temp_list
 def Main():
+    '''
+    :func:          main
+    :params:        none
+    :description:   The function begins by sending cycles of consumer/producers to 
+    :               the coordinator:
+    '''
     logger = logging.getLogger()
     logger.setLevel(logging.NOTSET)
    
@@ -123,7 +130,7 @@ def Main():
         #* create list of consumer cycles matching passed values, else randomize list of size 5
         consumer_cycles = args.consumer_cycles if args.consumer_cycles else random.sample(range(1,6),5)
         logger.info(f'Consumer Cycles: {consumer_cycles}')
-
+​
         #* Just for S&G, shuffle the lists..  idk
         if args.shuffle:   
             logger.info(f'Shuffle passed by User')
@@ -138,7 +145,7 @@ def Main():
             #! WARNING: Only producers will be ran.  Useful for debugging server
             logger.critical('STARVING PRODUCERS')
             consumer_cycles = list()
-
+​
         if len(producer_cycles) != len(consumer_cycles):
             #! WARNING: Warn user of potential deny conditions
             print('Lists unbalanced.  Do you wish to proceed? ')
@@ -155,9 +162,9 @@ def Main():
         consumer_uuids = args.consumer_uuids if args.consumer_uuids else generate_random_uuids(uuid_count_consumers)
         logger.info(f'Producers IDS: {producer_uuids}')
         logger.info(f'Consumer IDS: {consumer_uuids}\n')
-
+​
         
-
+​
     logger.warning('Client Process beginiing')
     logger.info('This is a test')
     host = '165.227.212.52'
@@ -168,15 +175,12 @@ def Main():
     logger.info(f'Producer cycles:  {sum(producer_cycles)}')
     
     
-
-    # with open('file.json') as file:
-    #     data = json.load(file)
+​
+    
     pc_decider = random.getrandbits(1)
     pc_decider = bool(pc_decider)
     while True:
-        #s = socket.socket()
-        #s.connect((host, port))
-        # Determine which cycle starts first, if True, producers, else consumers
+       
         pc_decider = not pc_decider
         #* start producer cycle which first int of producer cycle list
         if producer_cycles and pc_decider:
@@ -208,7 +212,7 @@ def Main():
                     s.shutdown(socket.SHUT_WR)
                 except ConnectionResetError as e:
                     logger.warning(f'Server Reset connection for ')
-
+​
                 try:
                     data = pickle.loads(data)
                     logger.info(f'Recieved {data.message}')
@@ -253,30 +257,16 @@ def Main():
                 try:
                     data = pickle.loads(data)
                     #logger.debug(f'Complete Data message:  {repr(data)}')
-
+​
                 except EOFError:
                     
                     logger.critical('Server failed to send return message')
                     
             
                 
-
-    #     time.sleep(3)
-    #     data = s.recv(1024)
-    #     s.shutdown(socket.SHUT_WR)
-    #     data = pickle.loads(data)
-    #     print(data.message)
-    # # send_data = json.dumps(data).encode('utf-8')
-    # # sd = SendData(0,uuid.uuid4(),data)
+​
     
-    # # send_data = pickle.dumps(sd)
-    # # s.sendall(send_data)
-    # # s.shutdown(socket.SHUT_WR)
-    # # data = s.recv(1024)
-    # # data = pickle.loads(data)
-    # # print(data)
-
+​
 if __name__ == '__main__':
-    Main()
-
-    
+                            
+       Main()
