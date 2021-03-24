@@ -35,7 +35,7 @@ import argparse
 import copy
 import coloredlogs
 import colorama
-from bug import printbug
+
 #* Begin argument parsing
 
 parser = argparse.ArgumentParser(description='Server Module')
@@ -56,7 +56,7 @@ stock_queue = queue.Queue()
 logger = logging.getLogger()
 logger.setLevel(logging.NOTSET)
 
-formatter = logging.Formatter('\nline:{%(lineno)d}\n\t%(asctime)s\n\t%(threadName)s\n\t%(levelname)s\n\t%(message)s',"%H:%M:%S ")
+formatter = logging.Formatter('\nline:{%(lineno)d}\n\t%(asctime)s\n\tThread-%(threadName)s\n\t%(levelname)s\n\t%(message)s',"%H:%M:%S ")
 
 output_file_handler = logging.FileHandler('server.log', 'w')
 
@@ -303,7 +303,7 @@ def get_longest(pdict):
     thyme = None
     if pdict:
         temp = pdict.topitem()
-        print(f'Key value is {temp[0]}. Value is {temp[1]}')
+        logger.info(f'TopItem: Key value is {temp[0]}. Value is {temp[1]}')
         thyme = time.time() - temp[1]
     return thyme
 
@@ -516,11 +516,11 @@ def Main():
        
         # start daemon thread for client
         client_id = sent_object.stock_info.get('ConsumerId') if client_type == 'Consumer' else sent_object.stock_info.get('ProducerId')
-        client_id = 'Thread-'+client_id
+        #client_id = 'Thread-'+client_id
         ct = threading.Thread(target=ClientThread, name=client_id,  args=(client_ip, client_port,client, sent_object)) # Make thread B as a daemon thread
         ct.daemon = True
         ct.start()
 
 if __name__ == '__main__':
-
+    
     Main()
