@@ -1,0 +1,520 @@
+
+line: 625
+	Module:Computer
+	10:44:05	INFO
+	Run Times for each process
+
+line: 631
+	Module:Computer
+	10:44:05	INFO
+	Average Time: 140.13
+
+line: 632
+	Module:Computer
+	10:44:05	INFO
+	SHORTEST PROCESS: {'ProcessId': 93, 'TotalTime': 14}
+
+line: 633
+	Module:Computer
+	10:44:05	INFO
+	LONGEST PROCESS: {'ProcessId': 87, 'TotalTime': 391}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 93, 'TotalTime': 14}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 67, 'TotalTime': 18}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 5, 'TotalTime': 27}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 41, 'TotalTime': 27}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 98, 'TotalTime': 30}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 11, 'TotalTime': 34}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 97, 'TotalTime': 34}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 65, 'TotalTime': 40}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 78, 'TotalTime': 41}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 47, 'TotalTime': 41}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 10, 'TotalTime': 41}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 6, 'TotalTime': 48}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 54, 'TotalTime': 51}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 76, 'TotalTime': 51}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 59, 'TotalTime': 52}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 75, 'TotalTime': 54}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 51, 'TotalTime': 55}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 13, 'TotalTime': 55}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 61, 'TotalTime': 58}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 64, 'TotalTime': 58}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 44, 'TotalTime': 59}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 40, 'TotalTime': 59}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 43, 'TotalTime': 61}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 24, 'TotalTime': 65}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 39, 'TotalTime': 68}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 46, 'TotalTime': 72}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 83, 'TotalTime': 72}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 80, 'TotalTime': 80}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 99, 'TotalTime': 83}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 38, 'TotalTime': 88}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 8, 'TotalTime': 91}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 2, 'TotalTime': 98}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 25, 'TotalTime': 104}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 26, 'TotalTime': 110}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 22, 'TotalTime': 111}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 16, 'TotalTime': 116}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 9, 'TotalTime': 117}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 15, 'TotalTime': 119}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 60, 'TotalTime': 120}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 86, 'TotalTime': 122}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 95, 'TotalTime': 126}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 4, 'TotalTime': 128}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 50, 'TotalTime': 128}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 37, 'TotalTime': 130}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 45, 'TotalTime': 132}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 19, 'TotalTime': 133}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 23, 'TotalTime': 133}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 32, 'TotalTime': 134}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 68, 'TotalTime': 134}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 35, 'TotalTime': 134}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 28, 'TotalTime': 135}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 69, 'TotalTime': 138}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 89, 'TotalTime': 140}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 27, 'TotalTime': 141}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 57, 'TotalTime': 142}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 12, 'TotalTime': 143}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 7, 'TotalTime': 144}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 17, 'TotalTime': 144}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 42, 'TotalTime': 150}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 48, 'TotalTime': 158}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 31, 'TotalTime': 160}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 85, 'TotalTime': 164}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 96, 'TotalTime': 168}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 79, 'TotalTime': 168}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 91, 'TotalTime': 170}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 71, 'TotalTime': 170}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 94, 'TotalTime': 171}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 77, 'TotalTime': 178}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 1, 'TotalTime': 180}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 55, 'TotalTime': 180}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 52, 'TotalTime': 181}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 0, 'TotalTime': 183}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 74, 'TotalTime': 184}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 20, 'TotalTime': 191}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 18, 'TotalTime': 194}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 66, 'TotalTime': 200}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 3, 'TotalTime': 202}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 58, 'TotalTime': 203}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 33, 'TotalTime': 207}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 92, 'TotalTime': 210}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 62, 'TotalTime': 212}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 63, 'TotalTime': 212}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 14, 'TotalTime': 213}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 70, 'TotalTime': 218}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 56, 'TotalTime': 219}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 49, 'TotalTime': 220}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 82, 'TotalTime': 224}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 88, 'TotalTime': 225}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 84, 'TotalTime': 226}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 72, 'TotalTime': 226}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 81, 'TotalTime': 227}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 30, 'TotalTime': 228}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 73, 'TotalTime': 235}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 53, 'TotalTime': 240}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 90, 'TotalTime': 240}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 29, 'TotalTime': 242}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 21, 'TotalTime': 260}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 36, 'TotalTime': 335}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 34, 'TotalTime': 365}
+
+line: 635
+	Module:Computer
+	10:44:05	INFO
+	{'ProcessId': 87, 'TotalTime': 391}
